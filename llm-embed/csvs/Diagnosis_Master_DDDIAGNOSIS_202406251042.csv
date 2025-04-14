@@ -1,0 +1,1030 @@
+"code","description"
+00001,Simple Varicose Veins                                                                               
+00002,Acquired trigger finger                                                                             
+00003,Chest pain                                                                                          
+00004,Diabetes Mellitus without Complication                                                              
+00005,Classical Migraine                                                                                  
+00006,Diabetes mellitus                                                                                   
+00007,Vitamin B12 Deficiency (Non Anemic)                                                                 
+00008,Hypertension                                                                                        
+00009,Ophthalmic Migraine                                                                                 
+00010,personal history of renal calculi                                                                   
+00011,Dyslipidemia                                                                                        
+00012,Subclinical Hypothyroidism                                                                          
+00013,Asthma                                                                                              
+00014,Hypothyroidism                                                                                      
+00015,Ulcerative Colitis                                                                                  
+00016,Dry Skin                                                                                            
+00017,"Diabetes mellitus, type 2                                                                           "
+00018,Growth delay                                                                                        
+00019,HER-2 positive carcinoma of breast                                                                  
+00020,Fatty Liver                                                                                         
+00021,Benign Prostatic Hypertrophy without Lower Urinary Tract Symptoms                                   
+00022,Syndrome of Inappropriate Secretion of Antidiuretic Hormone                                         
+00023,Sleep disorder                                                                                      
+00024,Migraine                                                                                            
+00025,Simple Obesity                                                                                      
+00026,lumbar scoliosis                                                                                    
+00027,Weight Gain Finding                                                                                 
+00028,"Diabetes mellitus, type 1                                                                           "
+00029,Sleep Deprivation                                                                                   
+00030,Nutritional Deficiency                                                                              
+00031,Type II Diabetes Mellitus with Neurological Manifestations                                          
+00032,Vitamin deficiency                                                                                  
+00033,"Diabetes Mellitus Type II, Controlled, with no Complications                                        "
+00034,Urinary tract infection                                                                             
+00035,Vitamin d deficiency                                                                                
+00036,Elevated blood pressure                                                                             
+00037,Obesity                                                                                             
+00038,Ischemic Heart Disease                                                                              
+00039,Coronary heart disease                                                                              
+00040,Polycystic Ovaries                                                                                  
+00041,Back pain                                                                                           
+00042,Waldenstrom's Macroglobulinemia                                                                     
+00043,history of hypertension                                                                             
+00044,Relative Polycythemia                                                                               
+00045,Primary Hypertriglyceridemia                                                                        
+00046,Subacute Thyroiditis                                                                                
+00047,Overweight                                                                                          
+00048,Vertigo                                                                                             
+00049,Anaemia                                                                                             
+00050,Uncontrolled Diabetes Mellitus                                                                      
+00051,Female infertility                                                                                  
+00052,"Anemia, iron deficiency                                                                             "
+00053,Irregular menstrual cycle                                                                           
+00054,Primary Idiopathic Hypertrophic Cardiomyopathy                                                      
+00055,sports injury                                                                                       
+00056,Vitamin B Deficiency                                                                                
+00057,Uncontrolled hypertension                                                                           
+00058,history of hypothyroidism                                                                           
+00059,Pregnant - Planned                                                                                  
+00060,Dysmenorrhea                                                                                        
+00061,Morbid Obesity                                                                                      
+00062,Impaired Glucose Tolerance                                                                          
+00063,Vaginal Dryness                                                                                     
+00064,Viral Pharyngitis                                                                                   
+00065,Hyperthyroidism                                                                                     
+00066,Nonproliferative Diabetic Retinopathy                                                               
+00067,Allergy                                                                                             
+00068,Cough                                                                                               
+00069,Upper respiratory infection                                                                         
+00070,Chronic Low Back Pain                                                                               
+00071,Hypercholesterolemia                                                                                
+00072,Allergic rhinitis                                                                                   
+00073,allergic cough                                                                                      
+00074,Paralytic Stroke                                                                                    
+00075,Fever                                                                                               
+00076,Vitamin Disease                                                                                     
+00077,Allergic Asthma                                                                                     
+00078,Knee Injury                                                                                         
+00079,Peripheral neuropathy                                                                               
+00080,Nutritional Anemia                                                                                  
+00081,Rheumatoid arthritis                                                                                
+00082,Seborrheic Dermatitis of Scalp                                                                      
+00083,acute constipation                                                                                  
+00084,Diabetes Mellitus with Complication                                                                 
+00085,Recent weight loss                                                                                  
+00086,Type I Diabetes Mellitus - Poor Control                                                             
+00087,Amenorrhea                                                                                          
+00088,Urticaria                                                                                           
+00089,Ankle Injury                                                                                        
+00090,Seborrheic Dermatitis                                                                               
+00091,Gastroesophageal reflux disease                                                                     
+00092,Prepatellar Bursitis                                                                                
+00093,Secondary Diabetes Mellitus                                                                         
+00094,High Blood Triglycerides                                                                            
+00095,Gastroenteritis                                                                                     
+00096,Constipation                                                                                        
+00097,Low back pain                                                                                       
+00098,Hyperprolactinaemia                                                                                 
+00099,"Chest Pain, Musculoskeletal                                                                         "
+00100,Chronic Gastritis                                                                                   
+00101,Self-Limiting Autoimmune Thyroiditis with Transient Hyperthyroidism and/or Hypothyroidism           
+00102,"Diabetes Mellitus, Latent                                                                           "
+00103,chronic idiopathic urticaria                                                                        
+00104,Gestational Diabetes                                                                                
+00105,Goiter                                                                                              
+00106,Papillary Thyroid Carcinoma                                                                         
+00107,Chronic diarrhea of unknown origin                                                                  
+00108,Severe Hypothyroidism                                                                               
+00109,Overweight (BMI 25.0-29.9)                                                                          
+00110,Pituitary Adenoma                                                                                   
+00111,Epilepsy                                                                                            
+00112,Simple Constipation                                                                                 
+00113,sprain and strain of hip                                                                            
+00114,club foot                                                                                           
+00115,Chronic obstructive pulmonary disease                                                               
+00116,Ankle Swelling                                                                                      
+00117,Essential hypertension                                                                              
+00118,Iatrogenic Hypothyroidism                                                                           
+00119,Chronic Urticaria                                                                                   
+00120,Ventricular Ectopic Beats                                                                           
+00121,Postsurgical Percutaneous Transluminal Coronary Angioplasty Status                                  
+00122,Fertility Problem                                                                                   
+00123,Onychomycosis of Toenails                                                                           
+00124,Acute Gastroenteritis                                                                               
+00125,Gastritis                                                                                           
+00126,Generalised abdominal pain                                                                          
+00127,Multinodular goiter                                                                                 
+00128,Thyroiditis                                                                                         
+00129,Endometriosis                                                                                       
+00130,"Respiratory tract infection, lower                                                                  "
+00131,Bike Accident                                                                                       
+00132,Chronic Instability of Knee                                                                         
+00133,Corn                                                                                                
+00134,Graves' Disease                                                                                     
+00135,Acanthosis nigricans                                                                                
+00136,Paroxysmal Atrial Fibrillation                                                                      
+00137,Hordeolum                                                                                           
+00138,Bronchitis                                                                                          
+00139,Acute Upper Respiratory Infection                                                                   
+00140,Prolactinoma                                                                                        
+00141,Achilles Tendinitis                                                                                 
+00142,Chondromalacia of patella                                                                           
+00143,Left Bundle Branch Block                                                                            
+00144,Mechanical Low Back Pain                                                                            
+00145,Craniopharyngioma                                                                                   
+00146,Diabetic Autonomic Neuropathy                                                                       
+00147,diabetes mellitus type 2 in nonobese                                                                
+00148,Impaired Fasting Glucose                                                                            
+00149,Adhesive capsulitis of shoulder                                                                     
+00150,Rupture of Anterior Cruciate Ligament                                                               
+00151,"Toxicity, food                                                                                      "
+00152,Bursitis                                                                                            
+00153,Heart failure                                                                                       
+00154,Viral Infection                                                                                     
+00155,Nontoxic Simple Goitre                                                                              
+00156,Seronegative Spondyloarthropathy                                                                    
+00157,Seronegative rheumatoid arthritis                                                                   
+00158,Psoriatic Spondylitis                                                                               
+00159,Osteo-articulary problem                                                                            
+00160,Thyroid nodule                                                                                      
+00161,Hypertensive Disorder                                                                               
+00162,Allergic Urticaria                                                                                  
+00163,Hypotension                                                                                         
+00164,"Viral Warts, Unspecified                                                                            "
+00165,Foot Pain                                                                                           
+00166,tear of supraspinatus tendon                                                                        
+00167,Juvenile Myoclonic Epilepsy                                                                         
+00168,Generalised Osteoarthritis                                                                          
+00169,Sarcoidosis                                                                                         
+00170,"Seropositive rheumatoid arthritis, unspecified                                                      "
+00171,Chronic Osteoarthritis                                                                              
+00172,Systemic Lupus Erythematosus                                                                        
+00173,Hemorrhoids                                                                                         
+00174,Headache                                                                                            
+00175,Chronic Lymphocytic Leukemia                                                                        
+00176,left ventricular dysfunction                                                                        
+00177,Well Woman Exam with Routine Gynecological Exam                                                     
+00178,Polyarthritis                                                                                       
+00179,Arthritis                                                                                           
+00180,Cervical Spondylosis                                                                                
+00181,Sacroiliac Joint Pain                                                                               
+00182,Disorder of Connective Tissue                                                                       
+00183,Seronegative Arthritis                                                                              
+00184,primary Sjogren's syndrome                                                                          
+00185,Rheumatoid Arteritis                                                                                
+00186,Systemic Sclerosis                                                                                  
+00187,Scleritis                                                                                           
+00188,Disorder of Vocal Cord                                                                              
+00189,Vasculitis                                                                                          
+00190,Arthritis due to Viral Infection                                                                    
+00191,Crohn's Disease of Small Intestine                                                                  
+00192,Osteoarthrosis                                                                                      
+00193,Acute Immunologic Urticaria                                                                         
+00194,Complex Regional Pain Syndrome                                                                      
+00195,Mitral Valve Prolapse                                                                               
+00196,Sprain of Knee                                                                                      
+00197,Soft tissue injury                                                                                  
+00198,Charcot's arthropathy                                                                               
+00199,Traumatic injury                                                                                    
+00200,Status Post Arthrodesis                                                                             
+00201,Ankle sprain or strain                                                                              
+00202,Charcot's Syndrome                                                                                  
+00203,systemic lupus erythematosus with organ or system involvement                                       
+00204,Post-Infective Arthritis                                                                            
+00205,Well Woman Exam                                                                                     
+00206,Unspecified Scleritis                                                                               
+00207,Lupus Panniculitis                                                                                  
+00208,Psoriasis with Arthropathy                                                                          
+00209,Fibromyalgia                                                                                        
+00210,Lactose Intolerance                                                                                 
+00211,Ankylosing Spondylitis                                                                              
+00212,Hypopyon                                                                                            
+00213,Spondylosis                                                                                         
+00214,Osteoarthritis of Knee                                                                              
+00215,Nausea Alone                                                                                        
+00216,Pre-hypertension                                                                                    
+00217,Osteoporosis                                                                                        
+00218,Sinusitis                                                                                           
+00219,Gout                                                                                                
+00220,Plantar Fasciitis                                                                                   
+00221,Neuropathy                                                                                          
+00222,diabetic peripheral neuropathy                                                                      
+00223,Dengue                                                                                              
+00224,Pre Diabetes                                                                                        
+00225,Dyslipidaemia                                                                                       
+00226,Pregnant                                                                                            
+00227,Pituitary  Apoplexy                                                                                 
+00228,Panhypopituitarism                                                                                  
+00229,Anxiety                                                                                             
+00230,Psoriasis                                                                                           
+00231,Low normal Vitamin D                                                                                
+00232,Vitamin B12 deficeincy                                                                              
+00233,CKD                                                                                                 
+00234,Renal Donor                                                                                         
+00235,Sheehan's Syndrome                                                                                  
+00236,Hypogonadotrophic Hypogonadism                                                                      
+00237,Partial Empty Sella                                                                                 
+00238,Mitral valve prolapse-Mild                                                                          
+00239,Low Normal Vitamin D level                                                                          
+00240,iRRITABLE BOWEL                                                                                     
+00241,Obesity Vitamin D  Low normal Vitamin B12                                                           
+00242,OBESITY at 24.16                                                                                    
+00243,Low normal Vitamin B12                                                                              
+00244,Vitamin D deficeincy                                                                                
+00245,Hypertriglyceridaemia                                                                               
+00246,Depression                                                                                          
+00247,Severe AS                                                                                           
+00248,PCI done                                                                                            
+00249,Urosepsis                                                                                           
+00250,Morbid Obesity  Well controlled D.M                                                                 
+00251,well controlled Hypertension                                                                        
+00252,Renal calculus in past Grade1 fatty liver in past                                                   
+00253,Umbilical Hernia                                                                                    
+00254,High Normal BMI                                                                                     
+00255,Diabetes mellitus -Poorly Controlled                                                                
+00256,Poorly controlled Hypothyroidism                                                                    
+00257,? Vitamin Deficeincies                                                                              
+00258,REACTIVE ARTHRITIS                                                                                  
+00259,Vitamin B12 and D deficiency                                                                        
+00260,Mild decreased function of kidney- ? cause                                                          
+00261,Poorly Controlled D.M                                                                               
+00262,SPONDYLOARHTRITIS                                                                                   
+00263,Abnormal uterine bleeding                                                                           
+00264,SYSTEMIC SCELROSIS + SJOGRENS SYNDROME                                                              
+00265,Adenomyosis                                                                                         
+00266,PANOPTHALMITIS WITH CORNEAL MELT                                                                    
+00267,LEFT KNEE MONO ARTHRITIS                                                                            
+00268,mmmmm                                                                                               
+00269,MECHANICAL PAIN                                                                                     
+00270,Oligo teratozoospermia                                                                              
+00271,Varicose Veins                                                                                      
+00272,Haemodyalisis                                                                                       
+00273,Hyperuricaemia                                                                                      
+00274,Vitamin B12 deficiency                                                                              
+00275,Low normal Vitamin D levels                                                                         
+00276,Grade 2 fatty liver with normal LFTS                                                                
+00277,Mild raise in Hgb -? smoking                                                                        
+00278,GERD                                                                                                
+00279,Ischaemic Heart Disease                                                                             
+00280,Insulin Resistance                                                                                  
+00281,C3-C4 slipped disc                                                                                  
+00282,Cervical kyphosis                                                                                   
+00283,Cervical canal stenosis                                                                             
+00284,Thymectomy                                                                                          
+00285,Obesity - lost about 2kgs                                                                           
+00286,Fatty liver on USG                                                                                  
+00287,Abdominal wall - abnormality in USG                                                                 
+00288,changes  in ECG-? Ischaemia                                                                         
+00289,Mild Dyslipidaemia                                                                                  
+00290,Renal Calculi                                                                                       
+00291,MSU -leuco and RBC +                                                                                
+00292,Pre-Diabetes                                                                                        
+00293,Hypertriglyceridemia                                                                                
+00294,Vitamin b & D deficiency                                                                            
+00295,Mild Anemia- with no acute bleeding symptoms                                                        
+00296,Blood pressure -Not recorded in the last one year                                                   
+00297,Mildly raised BMI  Vitamin D and B12 deficiency                                                     
+00298,Mildly raised BMI                                                                                   
+00299,Vitamin D and B12 Deficiency                                                                        
+00300,Blood pressure -not known                                                                           
+00301,Frozen Shoulder                                                                                     
+00302,Grade 3 fatty liver                                                                                 
+00303,sinus Tachycardia                                                                                   
+00304,Mild Dyslipidemia                                                                                   
+00305,Low Normal B.P                                                                                      
+00306,Post Viral arthralgia -Dengue with likely co-infec                                                  
+00307,"other previous illness- DM, dyslipidaemia,obseity                                                   "
+00308,Iron Deficiency Anaemia                                                                             
+00309,Likely LRTI-Day 3                                                                                   
+00310,Rt  2 nd toe -? calcium deposits                                                                    
+00311,Mild transaminites- Mild raised GGT-? sec to alcoh                                                  
+00312,HYPERTENSIONN                                                                                       
+00313,CVA                                                                                                 
+00314,Retinopathy                                                                                         
+00315,Likely Viral illness induced rash                                                                   
+00316,Likely Irritable bowel                                                                              
+00317,Papillary Ca Thyroid                                                                                
+00318,Microcytic Anemia- likely Iron Deficiency                                                           
+00319,Sub clinical Hypothyroidism                                                                         
+00320,MECHANICAL KNEE PAIN                                                                                
+00321,Microcytic anemia-Likely Iron -                                                                     
+00322,Moderately controlled Hypothyroidism                                                                
+00323,CONTRACTURES OF FLEXOR TENDONS OF HAND                                                              
+00324,WRIST GANGLION CYST                                                                                 
+00325,SJOGREN SYNDROME WITH ITP SEVERE THROMBOCYTOPENIA                                                   
+00326,Hyponatraemia                                                                                       
+00327,Sciatica                                                                                            
+00328,Post Viral arthralgia- slowly resolving-                                                            
+00329,other Previous illness                                                                              
+00330,Viral illness- Post Viral arthralgia                                                                
+00331,Mild Over weight                                                                                    
+00332,Bronchial Asthma                                                                                    
+00333,Likely Haemangiomas in Liver on USG                                                                 
+00334,birads 3 on breast USG                                                                              
+00335,Renal calculus on Right Kidney                                                                      
+00336,BPH                                                                                                 
+00337,CABG                                                                                                
+00338,OBESITY -High BMI at 30.6                                                                           
+00339,Newly Diagnosed Diabetes mellitus -HbA1C at 8.5                                                     
+00340,Vitamin B12 & D deficeincy                                                                          
+00341,Likely Dry eyes                                                                                     
+00342,UTI                                                                                                 
+00343,Cardiomyopathy                                                                                      
+00344,Severe Vitamin B12 deficiency                                                                       
+00345,Low BMI                                                                                             
+00346,Moderately controlled Dyslipidaemia                                                                 
+00347,Hypoadrenalism sec to exogenous steroids                                                            
+00348,physically fit                                                                                      
+00349,LADA                                                                                                
+00350,Hypogonadism                                                                                        
+00351,Angioiedema                                                                                         
+00352,HOCM                                                                                                
+00353,Grade 1 fatty liver                                                                                 
+00354,Grade 2 fatty liver on USG                                                                          
+00355,Prostatomegaly- No significant symptoms                                                             
+00356,Dementia                                                                                            
+00357,Fatty liver -Grade 1                                                                                
+00358,Gall bladder Polyp on USG                                                                           
+00359,High BMI                                                                                            
+00360,Dyslipidemia-Moderately controlled                                                                  
+00361,Low normal Vitamin B12 levels                                                                       
+00362,Grade 1 fatty liver on USG                                                                          
+00363,Cutaneous Vasculitis                                                                                
+00364,Cor Pulmonale                                                                                       
+00365,CCF                                                                                                 
+00366,? Achilles tendonitis                                                                               
+00367,S/P VSD CLOSURE DONE IN 2019                                                                        
+00368,POST MENOPAUSAL SPOTTING WITH THICK ENDOMETRIUM                                                     
+00369,Thalassemia Trait                                                                                   
+00370,?PCOD                                                                                               
+00371,IDIOPATHIC INTRCRANIAL HYPERTENSION                                                                 
+00372,? IDIOPATHIC INTRACRANIAL HYPERTENSION                                                              
+00373,Well controlled Diabetes mellitus                                                                   
+00374,Mildly High BMI at 25.7                                                                             
+00375,Obesity BMI at 29.7                                                                                 
+00376,Pre Diabetes at 5.7                                                                                 
+00377,"UTI-Pus cells, Lecu ++                                                                              "
+00378,Normocytic Anaemia-No active bleeding                                                               
+00379,Likely UTI on MSU but Nil symptoms                                                                  
+00380,Diabetes-Poorly controlled                                                                          
+00381,Stress                                                                                              
+00382,Likely UTI                                                                                          
+00383,Likely URTI- Viral +/- Allergy                                                                      
+00384,SUSPECTED SJOGRENS SYNDROME                                                                         
+00385,LUMBAR SPONDYLOSIS                                                                                  
+00386,"Microcytic Anaemia -? Iron , Rule out Thalassemia                                                   "
+00387,Raised Triglycerides-Mildly                                                                         
+00388,"AUTOIMMUNE SCLERITIS , ANA - LOW TITRE POSITIVE                                                     "
+00389,"TENOSYNOVITIS,                                                                                      "
+00390,JOINT HYPER MOBILITY SYNDROME                                                                       
+00391,SERO NEGATIVE RA                                                                                    
+00392,TO RULE HEMOPATHIC MALIGNANCIES                                                                     
+00393,ENTHESITIS                                                                                          
+00394,SUSPICION OF PARANEOPLASTIC MANIFESTATIONS                                                          
+00395,PSORIATIC ARTHRITIS                                                                                 
+00396,OSA                                                                                                 
+00397,Autoimmune Urticaria                                                                                
+00398,Cellulitis -Recurrence                                                                              
+00399,Hypoadrenalism                                                                                      
+00400,Chest pain-Rule out Cardiac cause Stress                                                            
+00401,Premature Ovaria Failure                                                                            
+00402,Well controlled D.M  Well controlled Hypertension                                                   
+00403,POST VIRAL ARTHRITIS                                                                                
+00404,Ca Prostate                                                                                         
+00405,POORLY CONTROLLED D.M - compliance with medication                                                  
+00406,Transaminites- ? Fatty liver                                                                        
+00407,Pains secondary to MSK/Vitamin Deficiency                                                           
+00408,Likely Irritable Bowel/ ? cause Stress Past h/o                                                     
+00409,Pyoderma Gangrenosum                                                                                
+00410,Symptoms- ? Likely Vitamin B12 Deficiency/? cause                                                   
+00411,ECG-Iscahemic changes-                                                                              
+00412,ST segement elevation MI                                                                            
+00413,Acute Febrile Illness - Day 6 likely Chikungunya                                                    
+00414,Sjogrens Syndrome                                                                                   
+00415,Mildly Raised Haemoglobin                                                                           
+00416,TIA                                                                                                 
+00417,BPH with mild symptoms                                                                              
+00418,Past illness                                                                                        
+00419,Ac pharyngitis                                                                                      
+00420,dermographism                                                                                       
+00421,Gall stones                                                                                         
+00422,Weight Loss                                                                                         
+00423,Chest pain-Likely MSK + Gastritis Rule out Cardiac                                                  
+00424,Previous Pyelonephritis                                                                             
+00425,Iron Deficiency Anemia                                                                              
+00426,Grade 2 fatty liver on ECG with normal LFTs                                                         
+00427,Microcytic Anaemia-Iron deficiency anemia                                                           
+00428,Likely resolving Viral infection Apthous ulcers                                                     
+00429,Rash-Fungal with superadded bacterial infection                                                     
+00430,Hypertension -but now BP on lower side                                                              
+00431,Post Viral myalgia                                                                                  
+00432,Hepatitis B                                                                                         
+00433,Likely Anxiety with/without low mood                                                                
+00434,Previous illness as noted                                                                           
+00435,Acute Febrile illness -day 6 - Dengue eqvivocal                                                     
+00436,Cramps like secondary to above                                                                      
+00437,Mild Hypertriglyceridaemia                                                                          
+00438,Hyperandrogenism                                                                                    
+00439,Recurrent UTI                                                                                       
+00440,Acute febrile illness-? Viral Hepatitis/ secondary                                                  
+00441,? Migraine                                                                                          
+00442,? GERD                                                                                              
+00443,? URTI                                                                                              
+00444,DIAGNOSED AS SPONDYLOARTHRITIS                                                                      
+00445,SLE LUPUS NEPHRITIS                                                                                 
+00446,Hashimoto's                                                                                         
+00447,DM                                                                                                  
+00448,Planning pregnancy                                                                                  
+00449,Primary Hyperparathyroidism                                                                         
+00450,Moderate NPDR with DME                                                                              
+00451,Nephropathy                                                                                         
+00452,Cervical Disc - Sx done                                                                             
+00453,Dyspepsia                                                                                           
+00454,Pyelonephritis                                                                                      
+00455,Galactorrhoea                                                                                       
+00456,Glaucoma                                                                                            
+00457,Chronic Liver Disease - No Varices                                                                  
+00458,Reactive Hypoglycaemia                                                                              
+00459,Albuminuria                                                                                         
+00460,Eczema                                                                                              
+00461,URTI                                                                                                
+00462,Type 1 Diabetes                                                                                     
+00463,Prev GDM                                                                                            
+00464,Hypothyroidism in Pregnancy                                                                         
+00465,PTCA - done                                                                                         
+00466,Hyperthyroidism - In Remission                                                                      
+00467,Thrombocytosis                                                                                      
+00468,Menopausal                                                                                          
+00469,RHEUMATOID ARTHRITIS ON LONG TERM AYURVEDIC RX                                                      
+00470,SERO POSITIVE RHEUMATOID ARTHRITIS (RF - 51)                                                        
+00471,Secondary Diabetes - Pancreatitis                                                                   
+00472,Polycythaemia                                                                                       
+00473,Subclinical Hyperthyroidism                                                                         
+00474,Diabetic Foot                                                                                       
+00475,Cellulitis                                                                                          
+00476,Follicular Carcinoma Thyroid                                                                        
+00477,Costochondritis                                                                                     
+00478,Pancreatitis                                                                                        
+00479,Type 2 DM - in remission                                                                            
+00480,Pan-Hypopituitarism                                                                                 
+00481,BPH - Sx Done                                                                                       
+00482,Atrial Fibrillation                                                                                 
+00483,UNDIFFERENTIATED ARTHRITIS                                                                          
+00484,SPONDYLOARTHRITIS - AXIAL PREDOMINANT DISEASE                                                       
+00485,DEQUERVAIN TENOSYNOVITIS                                                                            
+00486,OSTEOARTHRITIS OF THE KNEE                                                                          
+00487,RECURRENT ANT. INTERMEDIATE UVEITIS                                                                 
+00488,SPONDYLOARTHRITIS - PSORIATIC ARTHRITIS                                                             
+00489,Parkinsons's Disease                                                                                
+00490,INFLAMMATORY ARTHRITIS                                                                              
+00491,SERO NEGATIVE RHEUMATOID ARTHRITIS                                                                  
+00492,NON HEALING ULCER - POSSIBLE VASCULITIS                                                             
+00493,INFLAMMATORY POLYARTHRITIS                                                                          
+00494,HIDRADENITIS SUPPURATIVA                                                                            
+00495,UNDIFFERENTIATED SPONDYLOARTHRITIS                                                                  
+00496,SPONDYLOARTHRITIS                                                                                   
+00497,SERO POSITIVE RHEUMATOID ARTHRITIS                                                                  
+00498,B/L OSTEOARTHRITIS                                                                                  
+00499,Adenomyosis with poly menorrhea                                                                     
+00500,CHRONIC KIDNEY DISEASE                                                                              
+00501,MILD MYOSITIS                                                                                       
+00502,Angiodysplasia                                                                                      
+00503,RT Frontal Calcified Granuloma                                                                      
+00504,Hyperthyr                                                                                           
+00505,Intolerant of SGLT2i                                                                                
+00506,Ca Colon                                                                                            
+00507,Fungal Rash- Candida                                                                                
+00508,PALLINDROMIC ARTHRITIS                                                                              
+00509,SERO NEGATIVE RA/ PSA                                                                               
+00510,LEFT ANKLE MONO-ARTHRITIS (RF-82)                                                                   
+00511,Viral Illness                                                                                       
+00512,ASYMPTOMATIC ANA+  planning for pregnancy                                                           
+00513,Likely ITP                                                                                          
+00514,ERYTHEMA NODOSUM  PSORIASIS + PLANTAR FASCITIS                                                      
+00515,CUTANIOUSNVASCULITIS + EN                                                                           
+00516,Hypertension- ? Control -On medication High BMI                                                     
+00517,Schizopohrenia                                                                                      
+00518,Dyslipidemia on medication- Controlled                                                              
+00519,High normal BMI MSU- leucocyte +ve Nil symptoms                                                     
+00520,Adeno ca Rectum                                                                                     
+00521,well child for vaccination                                                                          
+00522,Mild Hydronephrosis  with normal Kidney function                                                    
+00523,Mildly raised WCC with no symptoms of infection                                                     
+00524,well Controlled Dyslipidemia                                                                        
+00525,High Normal Vitamin D levels                                                                        
+00526,Total Knee Replacement - Bilateral                                                                  
+00527,BPPV                                                                                                
+00528,Others as before                                                                                    
+00529,Hypoparathyroidism                                                                                  
+00530,Thyroidectomy for MNG                                                                               
+00531,Hypertension- Conc LVH noted on Echo                                                                
+00532,Mild anemia-Nil  symptoms                                                                           
+00533,High BP in mornings -Reactive- Poor sleep                                                           
+00534,Prostatmegaly with nocturia                                                                         
+00535,Diabetes mellitus - good control ( on FBS and PPBS                                                  
+00536,Other Previous diagnosis                                                                            
+00537,RAI done                                                                                            
+00538,CHRONIC ANTERIOR TALO FIBULAR LIGAMENT SPRAIN                                                       
+00539,TKR                                                                                                 
+00540,Post Natal                                                                                          
+00541,Idiopathic Intracranial Hypertension - Shunt in si                                                  
+00542,? Irritable Bowel                                                                                   
+00543,Paroxysmal Arrythmia                                                                                
+00544,URTI ? viral infection                                                                              
+00545,Hyperthyroid- Poor control secondary to Poor compl                                                  
+00546,Vitamin B12 deficiency- but had injections after r                                                  
+00547,Mild raised BMI                                                                                     
+00548,Mild raise in ESR                                                                                   
+00549,Migraines                                                                                           
+00550,Low Iron levels but Normal Hgb                                                                      
+00551,Diabetes mellitus-Poorly controlled                                                                 
+00552,High BMI AT 27                                                                                      
+00553,RHEUMATOID ARTHRITIS - ANTI CCP > 200                                                               
+00554,ADULT-ONSET STILL'S DISEASE                                                                         
+00555,SJOGREN'S SYNDROME                                                                                  
+00556,Hypothyroidism-Uncontrolled - dose adjusted recent                                                  
+00557,Microcytic Anemia -secondary to ? Menor                                                             
+00558,MSU -likely UTI but no symptoms                                                                     
+00559,Pharyngitis -likely Viral with or without allergy                                                   
+00560,Dyslipidaemia-LDL at 153                                                                            
+00561,Mild Hyponatreamia ? Double purification of water                                                   
+00562,Poorly controlled D.M - med compliance                                                              
+00563,Mild Hyponatreamia- ?sec to double purification                                                     
+00564,Mildly raised platlets                                                                              
+00565,DIABETIC NEPHROPATHY                                                                                
+00566,Likely MSK back apin                                                                                
+00567,Likely MSK back pain                                                                                
+00568,? DIABETIC NEPHROPATHY - FLUID OVERLOAD STATE                                                       
+00569,GRANULOMATIS PANUVEITIS  AGRESSIVE DISEASE                                                          
+00570,HLA B 52 +                                                                                          
+00571,MECHANICAL BACK PAIN                                                                                
+00572,LONG STANDING RA                                                                                    
+00573,SLE - DLE LESION = HEMATOLOGICAL - LEUOPENIA -                                                      
+00574,undifferentiated connective tissue disorder                                                         
+00575,AVN - Hip                                                                                           
+00576,Trigeminal Neuralgia                                                                                
+00577,Hyperthyroid                                                                                        
+00578,Valve replacement - Metal                                                                           
+00579,? ACUTE GASTRITIS                                                                                   
+00580,ACUTE PHARYNGITIS                                                                                   
+00581,ACUTE GASTRITIS                                                                                     
+00582,CAD                                                                                                 
+00583,Mild Microcytic Anaemia                                                                             
+00584,Dyslipidaemia -controlled                                                                           
+00585,GERD-                                                                                               
+00586,Low normal Vitamin B12 and D                                                                        
+00587,Diabetes mellitus - good control based on FBS and                                                   
+00588,Hypothyroid -Moderate control                                                                       
+00589,Diabetes mellitus -Moderately controlled                                                            
+00590,Ca Pancreas                                                                                         
+00591,PTCA                                                                                                
+00592,Symptoms secondary to ? GERD/? Thyroid/Viral                                                        
+00593,Diabetes -? control                                                                                 
+00594,Dengue illness -Day 6/7                                                                             
+00595,Thrombocytopaenia and Mild Transaminites                                                            
+00596,Acute febrile illness day 1 -? LRTI -Viral/allergy                                                  
+00597,?? Dengue illness                                                                                   
+00598,Acute Febrile illness Day                                                                           
+00599,Likely Viral illness -needs to rule out Dengue                                                      
+00600,Acute febrile illness day 2/3 -likely viral                                                         
+00601,?? Dengue                                                                                           
+00602,Hypertension- well controlled on medication                                                         
+00603,Pre -Diabetes                                                                                       
+00604,Mild Hyponatraemia                                                                                  
+00605,Diabetic Neuropathy                                                                                 
+00606,Hypertension -well controlled                                                                       
+00607,Dyslipidemia -overtly controlled                                                                    
+00608,"Diabetes, Type 2 in Remission                                                                       "
+00609,Diabetes mellitus -Poorly controlled -compliance i                                                  
+00610,Vitamin B12 and D deficeincy                                                                        
+00611,Anaemia -?  diet related                                                                            
+00612,Dyslipidaemia on medication                                                                         
+00613,Likely Viral infection ? Allergy                                                                    
+00614,Urinary incontinence                                                                                
+00615,Likely GERD                                                                                         
+00616,OA                                                                                                  
+00617,Low normal BMI                                                                                      
+00618,Jaundice                                                                                            
+00619,Acute febrile illness 3 day- likely viral                                                           
+00620,Dengue like illness                                                                                 
+00621,Acute febrile illness Day 3- Dengue like illness                                                    
+00622,Microcytic Anaemia                                                                                  
+00623,Dyslipidemia on medication                                                                          
+00624,Grade 2 fatty liver                                                                                 
+00625,Hypertension-?                                                                                      
+00626,Vitamin D and B12 deficeincy                                                                        
+00627,Acute febrile illness -Day 2- likely Viral                                                          
+00628,IRRITABLE BOWEL SYNDROME                                                                            
+00629,? Paroxysmal arrhythmia                                                                             
+00630,diabetes mellitus type 2  hypothyroidism                                                            
+00631,? Vitamin D deficiency                                                                              
+00632,well controlled D.M                                                                                 
+00633,Planning for Pregnancy                                                                              
+00634,Bipolar Disorder                                                                                    
+00635,GENERALIZED OSTEOARTHRITIS                                                                          
+00636,SPODYLOARTHRITIS-AXIAL DISEASE                                                                      
+00637,OSTEOARHTRITIS OF THE KNEE                                                                          
+00638,Persisting Thromocytopaenia- no further drop                                                        
+00639,Psychosis                                                                                           
+00640,MSK pains                                                                                           
+00641,juvenile myoclonic epilepsy hypothyroidism                                                          
+00642,depression/ ADHD/ allergies                                                                         
+00643,Type 2 DM                                                                                           
+00644,B/L KNEE OA - TKR DONE - LEFT HIP REPLACEMENT DONE                                                  
+00645,DM + HTN + OSTEOPOROSIS                                                                             
+00646,INFLAMMATORY LUNG DISEASE                                                                           
+00647,INTERSTITIAL LUNG DISEASE                                                                           
+00648,RHEUMATOID ARTHRITIS - OA KNEE                                                                      
+00649,SERO NEG RHEUMATOID ARTHRITIS                                                                       
+00650,NEUROPATHIC CHEST PAIN                                                                              
+00651,CAD:STABLE ANGINA CLASS 2-3                                                                         
+00652,PRESERVED LV SYSTOLIC FUNCTION                                                                      
+00653,Right Hemithyroidectomy                                                                             
+00654,Autonomic dysfunction                                                                               
+00655,MSK neck pain                                                                                       
+00656,Mildly raised GGT-but better than before                                                            
+00657,Gout -well controlled                                                                               
+00658,Acute febrile illness day 5                                                                         
+00659,Hypothyroid                                                                                         
+00660,Global Hypokinesia of LV                                                                            
+00661,NASH - Oesophageal Varices                                                                          
+00662,High B.P- needs more data about control                                                             
+00663,Hypothyroidism on medication                                                                        
+00664,RA -on medication                                                                                   
+00665,Mild Anaemia                                                                                        
+00666,Vitamin B12 -Low normal levels                                                                      
+00667,Right Kidney  Caliectasis                                                                           
+00668,Previous illness- sacrolilitis                                                                      
+00669,"Dengue day 7 - No thromocytopaenia,                                                                 "
+00670,Hypothyroid-under controlled                                                                        
+00671,Toxic MNG                                                                                           
+00672,chest pain under evaluation ? muscular pain                                                         
+00673,Diabetes mellitus well controlled                                                                   
+00674,Mildly low Vitamin D levels                                                                         
+00675,RHEUMATOID ARTHRITIS WITH SCLERITIS                                                                 
+00676,SEROPOSITIVE RHEUMATOID ARTHRITIS                                                                   
+00677,INFLAMMATORY MYOSITIS ON LONG TERM GLUCOCORTICOIDS                                                  
+00678,FIBROMYALGIA WITH B/L CTS                                                                           
+00679,Ca Breast                                                                                           
+00680,? Nutritional deficiencies                                                                          
+00681,Hypothyroidism -Over controlled                                                                     
+00682,Mildly High BMI                                                                                     
+00683,SPONDYLOARTHRITIS - HLA B27 +ve                                                                     
+00684,?SPONDYLOARTHRITIS                                                                                  
+00685,vitamin D and B12 deficiency uterine fibroids                                                       
+00686,CAD-PCI                                                                                             
+00687,RHINITIS MEDICAMENTOSA                                                                              
+00688,PERRENIAL ALLERGIC RHINTIS                                                                          
+00689,PERENIAL ALLERGIC RHINITIS                                                                          
+00690,L4-L5 Spondylolisthesis and disc prolapse                                                           
+00691,Diabetes mellitus -Good control                                                                     
+00692,Hypertension-Mildly high ranging at 155/99                                                          
+00693,Hyponatreamia -Nil symptoms                                                                         
+00694,Mild Thrombocytopaenia- Nil acute symptoms-chronic                                                  
+00695,Acute febrile illnes day 7                                                                          
+00696,Mild Transaminites                                                                                  
+00697,Lipoma                                                                                              
+00698,UNCONTROLLED Hypothyroid -High TSH at 36                                                            
+00699,UTI-Culture Positive-                                                                               
+00700,Known CKD-under Nephro as creat 3                                                                   
+00701,Prostate issues                                                                                     
+00702,Borderline Pre diabetic                                                                             
+00703,borderline sub clinical Hypothyroidism                                                              
+00704,Slightly high BP readings -? reactive                                                               
+00705,Poor sleeping pattern- Insomnia                                                                     
+00706,Low Testosterone                                                                                    
+00707,Hypothyroidism - Post RAI                                                                           
+00708,White Coat HTN ( 24 Hr BP Normal )                                                                  
+00709,LRTI                                                                                                
+00710,Mild Anaemia- Chronic                                                                               
+00711,Eosinophilic Enteritis                                                                              
+00712,Hypothyroidism -well controlled                                                                     
+00713,Mild Sub clinical Hypothyroidism                                                                    
+00714,Mild Hydronephrosis- ? UTI                                                                          
+00715,Mild Hydronephrosis- ? small calculi + UTI                                                          
+00716,? Uterine Fibroid                                                                                   
+00717,Single Kidney                                                                                       
+00718,Cystic Acne                                                                                         
+00719,Genital Fungal infection                                                                            
+00720,Insomnia                                                                                            
+00721,Mild High BMI                                                                                       
+00722,OSTEOPROSIS WITH OLD ANT T  12 WEDGE COMPRESSION                                                    
+00723,"ADULT ONSET STILL DISEASE CKD, HTN                                                                  "
+00724,INFLAMATORY POLY ARTHRITIS                                                                          
+00725,INFLAMMATORY OLIGOARTHRITIS - MAINLY INVOLVING KNE                                                  
+00726,SUSPECTED SPONDYLOARTHRITIS                                                                         
+00727,MONONEURITIS MULTIPLEX . VASCULITIS ON NERVE BIOSP                                                  
+00728,HIDRANITIS SUPPURATA                                                                                
+00729,Pre-Diabetic                                                                                        
+00730,PCOS                                                                                                
+00731,Multinodular Goitre                                                                                 
+00732,Dyslipidaemia- well controlled                                                                      
+00733,D.M -well controlled                                                                                
+00734,? PCOS                                                                                              
+00735,D.M                                                                                                 
+00736,High BP readings- ? needs more info                                                                 
+00737,Eythyroid                                                                                           
+00738,Tab Euthyroid                                                                                       
+00739,Euthyroid                                                                                           
+00740,Rule out Dengue                                                                                     
+00741,Infection-soft tissue                                                                               
+00742,Diabetes mellitus -well controlled                                                                  
+00743,Hypothyroidism - well controlled                                                                    
+00744,Acute febrile illness -Likely Viral URTI                                                            
+00745,Likely Allergy                                                                                      
+00746,??? Early chicken Pox                                                                               
+00747,D.M-Moderate control                                                                                
+00748,Myocardial Infarction                                                                               
+00749,Myasthenia gravis                                                                                   
+00750,Dyslipidaemia-Poor medication compliance                                                            
+00751,Acute febrile illness day 3 -? Viral                                                                
+00752,Neuroendocrine Tumour - head of pancreas                                                            
+00753,Lymphadenopathy-? Reactive                                                                          
+00754,Diabetes well controlled                                                                            
+00755,Hypothyroid- well controlled                                                                        
+00756,IHD                                                                                                 
+00757,Tonsillolith                                                                                        
+00758,IBS                                                                                                 
+00759,Carpal Tunnel Syndrome                                                                              
+00760,Hypothyroidism- Mod control- poor compliance                                                        
+00761,Hypertension - Mod control                                                                          
+00762,Low normal Vitamin D and B12 levels                                                                 
+00763,Grade 1prostatomegaly                                                                               
+00764,Hypertension - well controlled                                                                      
+00765,Hypertension -good control                                                                          
+00766,Hypothyroid -? Control                                                                              
+00767,Hypothyroidism- Not in the personal target level                                                    
+00768,Mild Triglyceride raise                                                                             
+00769,Bladder Amyloidosis                                                                                 
+00770,Acute febrile illness - day 7 - Likely LRTI                                                         
+00771,Low Iron levels                                                                                     
+00772,Diabetes mellitus -uncontrolled                                                                     
+00773,Hypertension- controlled                                                                            
+00774,Acute febrile illness-Likely Viral                                                                  
+00775,Pre D.M                                                                                             
+00776,Diabetes range HbA1C 6.8                                                                            
+00777,Sub clinical Hypothyroidism -planning Pregnancy                                                     
+00778,Gallbladder calculi /Sludge on USG                                                                  
+00779,TCC - Bladder                                                                                       
+00780,Dyslipidaemia- Moderate control                                                                     
+00781,Mild Anaemia - ? HeavyPeriods                                                                       
+00782,Sub clinical Hypothyroidism- Raising TSH levels                                                     
+00783,CLD                                                                                                 
+00784,VITAMIN b12 low normal levels                                                                       
+00785,MSK pain                                                                                            
+00786,symptoms- Nutrional Deficiencies/ ? cause                                                           
+00787,Diabetes mellitus - ? Control                                                                       
+00788,Dyslipidaemia -? Control                                                                            
+00789,Acute Febrile Illness day 2/3                                                                       
+00790,CKD -? DIABETES/? CAUSE                                                                             
+00791,hYPERTENSION =WELL CONTROLLED                                                                       
+00792,Allergyto scalp -? Dye related                                                                      
+00793,Hypertension well controlled                                                                        
+00794,Dengue IgM eqvivocal - Day 7                                                                        
+00795,Dengue illness day 4 - NS 1positive                                                                 
+00796,?lactose intolerance                                                                                
+00797,Diabetes -? insulin dependent                                                                       
+00798,Fibroids NOTED on USG                                                                               
+00799,Diabetes mellitus - HbA1C AT 8-Newly diagnosed                                                      
+00800,Grade 2 fatty infiltration on usg                                                                   
+00801,Hematoma of right toe                                                                               
+00802,Mildly reduced calcium                                                                              
+00803,haglunds disease                                                                                    
+00804,Gastric symptoms - ? secondary to orlistat                                                          
+00805,Abnormal TFTs                                                                                       
+00806,Uterine adenomysosis on USG                                                                         
+00807,CHOLELITHIASIS ON USG                                                                               
+00808,Dyslipiademia                                                                                       
+00809,Thrombocytopenia                                                                                    
+00810,Dengue illness Day 6                                                                                
+00811,Likely Allergy +/- Infection                                                                        
+00812,??? GERD                                                                                            
+00813,Small Umbilical Hernia                                                                              
+00814,endometrial thickness -? Thickened on USG                                                           
+00815,Osteopaenia                                                                                         
+00816,Pacemaker in Situ                                                                                   
+00817,Primary Amenorrhoea                                                                                 
+00818,Muscle cramps                                                                                       
+00819,Diabetes -HbA1C 6.6 -Over controlled                                                                
+00820,Macular Degenration                                                                                 
+00821,Cholecystectomy                                                                                     
+00822,Hypertension-? Control                                                                              
+00823,Dyslipidemia controlled                                                                             
+00824,Low Noramal Vitamin D levels                                                                        
+00825,Newly diagnosed Diabetes mellitus                                                                   
+00826,Post Viral tiredness                                                                                
+00827,Poorly controlled Hypertriglyceridaemia                                                             
+00828,well controlled Hypothyroidism                                                                      
+00829,Incidental Mild high BP                                                                             
+00830,Diabetes mellitus -HbA1C 7%                                                                         
+00831,Hypertrilglyceridaemia-poorly controlled                                                            
+00832,Over controlled D.M                                                                                 
+00833,Over Controlled Hypertension                                                                        
+00834,Back pain- ? Cause                                                                                  
+00835,Vitamin B12  and D deficeincy                                                                       
+00836,well controlled Dyslipidaemia                                                                       
+00837,High Bp reading- says Home BP normal                                                                
+00838,Neck pain- b12 def / msk pain                                                                       
+00839,Diabetes mellitus - HbA1C 6.4- Controlled                                                           
+00840,Poorly controlled Hypothyroidism-TSH 9.0 -                                                          
+00841,MSK leg pain                                                                                        
+00842,Mild Indirect Hyperbilirubinaemia                                                                   
+00843,Iritis                                                                                              
+00844,Likely Viral illness Day 1/2                                                                        
+00845,Likely URTI - DAY 4                                                                                 
+00846,Chronic Pancreatitis                                                                                
+00847,Familial Hypertrigyceridaemia                                                                       
+00848,Retinopathy-Nil abnormal                                                                            
+00849,Diabetes - POORLY CONTROLLED                                                                        
+00850,Hypertriglyceridemia - poorly controlled                                                            
+00851,Hypertension - ?                                                                                    
+00852,Anaemia- Iron deficiency                                                                            
+00853,? Anxiety                                                                                           
+00854,Secondary Hypothyroidism                                                                            
+00855,Hypopituitarism                                                                                     
+00856,Diabetes insipidus                                                                                  
+00857,Likely GERD with Constipation                                                                       
+00858,Dry feet                                                                                            
+00859,? Neuropathy                                                                                        
+00860,Symptoms - ? Nutrional deficiencies                                                                 
+00861,Chest pain-Rule out Cardiac cause                                                                   
+00862,Symptoms sec to ? Sinusitis/ ? Post Dengue                                                          
+00863,Low normal BP                                                                                       
+00864,Pyrexia of unknown origin                                                                           
+00865,AAA                                                                                                 
+00866,Diabetes  in Remission                                                                              
+00867,Mild soft tissue infection -? FB/? Self induced                                                     
+00868,Microcytic Anaemia- Haemoglobinopathies- Thalassem                                                  
+00869,Thalassemia Triat                                                                                   
+00870,Mild Jaundice- ? Cause                                                                              
+00871,Incidental High BP -needs more readings                                                             
+00872,CHARCOT DISEASE ?                                                                                   
+00873,? Allergic reaction                                                                                 
+00874,previous illness                                                                                    
+00875,over pronated foot more on the left side                                                            
+00876,RA NODULES                                                                                          
+00877,Panuveitis                                                                                          
+00878,Likely Allergic Cough +/- GERD                                                                      
+00879,Single Kidney - Sx for non functioning                                                              
+00880,Low normal Vitamin D and B12                                                                        
+00881,Post Viral Arthralgia                                                                               
+00882,D.M- Controlled based on FBS                                                                        
+00883,LRTI-?? Bacterial                                                                                   
+00884,Newly Diagnosed D.M                                                                                 
+00885,soft tissue infection                                                                               
+00886,? Viral                                                                                             
+00887,D.M- Moderately controlled                                                                          
+00888,Diabetes mellitus -HbA1C 6.5                                                                        
+00889,Hyperthyroidism - HCG related                                                                       
+00890,Chronic Constipation                                                                                
+00891,Mild Anaemia - ? Nutrional                                                                          
+00892,Low normal b12 levels                                                                               
+00893,Grade 1 fatty infiltration                                                                          
+00894,Uterine Fibroid                                                                                     
+00895,Breast USG - BIRADS 3 lesion                                                                        
+00896,Mild transaminites with Hyperbilirubinaemia-                                                        
+00897,Vitamin D and B12 infection                                                                         
+00898,Shrunken left kidney                                                                                
+00899,Diabetes - HbA1C 7.6                                                                                
+00900,Abdominal swelling- ? Rectus sheath diverti or Her                                                  
+00901,Hypertension-well controlled                                                                        
+00902,Likely Haemmoroid                                                                                   
+00903,Primary Hyperparathyroidism - Surgery done                                                          
+00904,Diabetes mellitus type 2                                                                            
+00905,ECG -iscahemic changes with no symptoms                                                             
+00906,Likely Mild Hypertension                                                                            
+00907,Nutrional deficeincies                                                                              
+00908,Benign essential Tremors                                                                            
+00909,Secondary Diabetes                                                                                  
+00910,Atrophic Pancreas                                                                                   
+00911,Oral fungal infection                                                                               
+00912,Premature Ovarian Failure                                                                           
+00913,Mildly raised  Bilirubin -Indirect                                                                  
+00914,Dyslipidaemia with Fam h/o-Father had M.I at 60                                                     
+00915,Low normal Vit D levels                                                                             
+00916,PROBABLE DIAGNOSIS - CERVICAL DISC SYNDROME                                                         
+00917,CARDIAC CAUSE TO BE RULED OUT                                                                       
+00918,BENIGN POSITIONAL VERTIGO                                                                           
+00919,LIGAMENTOUS INJURY - LEFT ANKLE                                                                     
+00920,? POST VIRAL ARTHRALGIA / POLYARTHALGIA FOR EVAL                                                    
+00921,Hydronephrosis-Bilateral -? cause                                                                   
+00922,Increased endometria thickness - ? cause                                                            
+00923,? UTI                                                                                               
+00924,Poorly controlled DM with likely complications                                                      
+00925,Pituitary apoplexy                                                                                  
+00926,Hypertension-IHD-ON EMDICATIONS                                                                     
+00927,likely stress                                                                                       
+00928,Well controlled Dyslipidaemia on medication                                                         
+00929,Mildly raised WCC-no severe acute symptoms                                                          
+00930,Hyper -well controlled on medication                                                                
+00931,Hypothyroid- not controlled- ? compliance                                                           
+00932,High Prolactin levels -? cause                                                                      
+00933,Acute febrile illness -Likely URTI                                                                  
+00934,? Vasovagal syncope                                                                                 
+00935,Dyslipidaemia -well controlled                                                                      
+00936,Under control Hypothyroidism                                                                        
+00937,Hypocalcaemia                                                                                       
+00938,Osteoarhritis                                                                                       
+00939,Partial Hypocortisolism                                                                             
+00940,Primary Hypoparathyroidism                                                                          
+00941,Diabetes mellitus -RBS 157 today                                                                    
+00942,well controlled Hypertesion                                                                         
+00943,Mildy High Creatinine- ? Nephropathy                                                                
+00944,Dyslipiademia -? control                                                                            
+00945,Diziness - ? Over control of BP                                                                     
+00946,PIP JOINT FOR EVALUATION                                                                            
+00947,PIP JOINT OF THE RIGHT HAND SYNOVITIS FOR EVAL                                                      
+00948,Hypothyroidism-well controlled                                                                      
+00949,Likely Post Viral arthralgia                                                                        
+00950,Isolated T4 raise-Mild                                                                              
+00951,Moderate control of BP                                                                              
+00952,Mild Thrombocytopenia -Better than before                                                           
+00953,Umbilical Hernia with fat stranding                                                                 
+00954,Fluctuating BP readings                                                                             
+00955,CUTANEOUS VASCULITIS + EN                                                                           
+00956,"SERO POSITIVE RA - ( RF - 272, ANTI CCP - 406)                                                      "
+00957,SEROPOSITIVE RA ( RF - 286 )                                                                        
+00958,RIGHT KNEE GRADE 4 CHONDROMALACIA                                                                   
+00959,? Gastritis                                                                                         
+00960,? ? Gall stones                                                                                     
+00961,Acute febrile illness- ? Viral                                                                      
+00962,Transaminites                                                                                       
+00963,Dyslipiademia - noted LDL 160 raised from 133                                                       
+00964,Hypersensitivity Pneumonitis                                                                        
+00965,High Hs-CRP                                                                                         
+00966,Mild Dyslipidaemia -LDL 114                                                                         
+00967,Low cortisol secondary to steroid intake                                                            
+00968,Lichen Planus                                                                                       
+00969,Mildly High HbA1C secondary to steroid use                                                          
+00970,Under controlled Hypothyroidism                                                                     
+00971,Raised Prolactin -? Cause                                                                           
+00972,Rosuvastatin Intolerance                                                                            
+00973,Severe ANXIETY                                                                                      
+00974,Likely Anxiety- secondary to stress                                                                 
+00975,NPDR                                                                                                
+00976,Hyperuricaemia - stopped Xyloric                                                                    
+00977,Resolved GERD                                                                                       
+00978,Incidental high normal B.P                                                                          
+00979,Umbilical Hernia on USG                                                                             
+00980,Allergies                                                                                           
+00981,Pre-Diabetic level HbA1C                                                                            
+00982,Well controlled D.M - ? one hypo                                                                    
+00983,? Over controlled DM- no HbA1C noted                                                                
+00984,Grade 1 Fatty Liver. Gallstone in the neck of the                                                   
+00985,? Vitamin D and B12 deficiencies                                                                    
+00986,LEFT SHOULDER TENDONITIS                                                                            
+00987,LEFT SHOULDER tendonitis / impingement                                                              
+00988,Hypertension-uncontrolled                                                                           
+00989,Breast feeding                                                                                      
+00990,Bradycardia                                                                                         
+00991,Hypercalcaemia                                                                                      
+00992,Patient Pregnant around 9 Weeks                                                                     
+00993,Severe Vitamin B12 and D Deficiency                                                                 
+00994,Dyslipidaemia LDL 149                                                                               
+00995,Gall stones and ? Gallbladder Polyp                                                                 
+00996,D.M- Poor control                                                                                   
+00997,Sleep apnoea                                                                                        
+00998,INFLAMMATORY POLYARTHRITIS + CARPAL TUNNEL SYNDROM                                                  
+00999,UNDIFFERENTIATED  CTD - nRNP - 3+                                                                   
+01000,SPONDYLOARTHRITIS + SJOGRENS SYNDROME                                                               
+01001,Congenital PUJ obstruction                                                                          
+01002,? Deficiencies                                                                                      
+01003,Moderate control of diabetes                                                                        
+01004,TMT-Positive- Cardiologist advised CAG                                                              
+01005,Mild transaminitis                                                                                  
+01006,Mild raise in Bilirubin                                                                             
+01007,Severe Vit D and B12 deficiencies                                                                   
+01008,Hyperuricaemia- on Protein supplements                                                              
+01009,? GERD with allergy                                                                                 
+01010,Mild raise in Bilirubin - likely due to Vitamin B1                                                  
+01011,Vit B12 deficeincy                                                                                  
+01012,oral candida                                                                                        
+01013,Eye - ? scleritis                                                                                   
+01014,Alcohol intake                                                                                      
+01015,COPD                                                                                                
+01016,"Inflammatory polyarthritis, (Rf and Anti CCP -neg                                                   "
+01017,ANA 1:160 CYTOPLASMIC SPECKLED ++                                                                   
+01018,Vitiligo                                                                                            
+01019,Idiopathic Intracranial Hypertension                                                                
+01020,Shingles                                                                                            
+01021,High uric acid                                                                                      
+01022,Diabetes mellitus -Newly Diagnosed                                                                  
+01023,Incidental High Reading of BP                                                                       
+01024,Vitamin B 12 deficiency                                                                             
+01025,Acute Pharyngitis-                                                                                  
+01026,Hypertension- High readings only at home - ? Machi                                                  
+01027,Post Viral Cough                                                                                    
+01028,Adeno Carcinoma Lung                                                                                
+01029,Exogenous Steroids                                                                                  

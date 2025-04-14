@@ -1,0 +1,72 @@
+{
+    "Complaints": [
+        {
+            "complaint": "need for weight loss",
+            "complaint_remark": "Patient reports a need for weight loss, amounting to 10% of their current weight."
+        },
+        {
+            "complaint": "knee joint pain",
+            "complaint_remark": "Patient also experiences knee joint pain."
+        }
+    ],
+    "vital": {
+        "weight": 71,
+        "height": 160
+    },
+    "examination": {
+        "examination_detail": "Mention of knee joint pain."
+    },
+    "prov_diagnosis": {
+        "provisional_diagnosis": "Diabetes management, knee joint pain likely due to neuropathy, and vitamin deficiency."
+    },
+    "investigations": [
+        {
+            "investigation": "HbA1c",
+            "additional_remark": "8.7, six months back."
+        },
+        {
+            "investigation": "Neuropathy screening",
+            "additional_remark": "Suggested due to knee joint pain."
+        },
+        {
+            "investigation": "Vitamin deficiency",
+            "additional_remark": "Specifically mentioned as \"betrol\" deficiency, likely referring to a B-vitamin."
+        }
+    ],
+    "MedicalAdvice": [
+        {
+            "medication_advice": "Vitamin injections",
+            "intake": "weekly once",
+            "duration": 4,
+            "duration_type": "w",
+            "route": "Injection",
+            "remark": "For four weeks"
+        },
+        {
+            "medication_advice": "Vitamin D supplementation",
+            "intake": "weekly once",
+            "duration": 8,
+            "duration_type": "w",
+            "route": "Oral",
+            "remark": "For eight weeks"
+        }
+    ],
+    "prescription": {
+        "follow_up_after_duration": 4,
+        "follow_up_after_duration_type": "w"
+    },
+    "medical_history": [
+        {
+            "medical_history": "Diabetes",
+            "medical_history_duration": 22,
+            "medical_history_type": "Y",
+            "code": "00004"
+        }
+    ],
+    "investigation": {
+        "investigation_free_text": "Vitamin deficiency"
+    },
+    "medicine_code_free_text": {
+        "medicine_code_free_text": "Vitamin D supplementation"
+    }
+}

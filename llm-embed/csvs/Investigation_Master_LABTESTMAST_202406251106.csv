@@ -1,0 +1,951 @@
+"code","description"
+        ,-                                                                                                   
+00000001,GRBS                                                                                                
+00000002,Female Reproductive Hormone                                                                         
+00000003,Male reproductive Hormone                                                                           
+00000004,I Cell Ab                                                                                           
+00000005,IHC-NSE Marker                                                                                      
+00000006,IHC- P53                                                                                            
+00000007,IHC- CEA                                                                                            
+00000008,IHC- CD79A                                                                                          
+00000009,IHC - Thyroid Transcription Factor                                                                  
+00000010,IHC - Thyroglobulin                                                                                 
+00000011,IHC - Smooth Muscle Antigen                                                                         
+00000012,IHC - S 100                                                                                         
+00000013,IHC - PLAP                                                                                          
+00000014,IHC - Pancytokeratin                                                                                
+00000015,IHC - MPO                                                                                           
+00000016,IHC - LMW-K                                                                                         
+00000017,IHC - Inhibin                                                                                       
+00000018,IHC - HMB 45                                                                                        
+00000019,IHC - GFAP                                                                                          
+00000020,IHC - GCDFP                                                                                         
+00000021,IHC - Epithelial Membrane Antigen                                                                   
+00000022,IHC - Desmin                                                                                        
+00000023,IHC - Cytokeratin 20                                                                                
+00000024,IHC - Cytokeratin 19                                                                                
+00000025,IHC - CYCLIN-D                                                                                      
+00000026,IHC - Chromogranin                                                                                  
+00000027,IHC - CD5                                                                                           
+00000028,IHC - CD43                                                                                          
+00000029,IHC - CD30                                                                                          
+00000030,IHC - CD3                                                                                           
+00000031,IHC - CD23                                                                                          
+00000032,IHC - CD20                                                                                          
+00000033,IHC - CD15                                                                                          
+00000034,IHC - CD117                                                                                         
+00000035,IHC - CD10                                                                                          
+00000036,IHC - BCL6                                                                                          
+00000037,IHC - BCL2                                                                                          
+00000038,IHC - ALK1                                                                                          
+00000039,Factor-II (Prothrombin) Mutation Study                                                              
+00000040,Glucose Tolerance Test - 5 samples                                                                  
+00000041,Glucose Tolerance Test - 4 samples                                                                  
+00000042,CD16                                                                                                
+00000043,CD15                                                                                                
+00000044,CD14                                                                                                
+00000045,CD138                                                                                               
+00000046,CD13                                                                                                
+00000047,CD123                                                                                               
+00000048,CD11c                                                                                               
+00000049,CD11b                                                                                               
+00000050,CD117                                                                                               
+00000051,CD103                                                                                               
+00000052,CD 10                                                                                               
+00000053,Cyclosporine                                                                                        
+00000054,Phosphorus-Urine Random                                                                             
+00000055,Sodium-24 Hrs Urine                                                                                 
+00000056,Magnesium-24 Hrs Urine                                                                              
+00000057,Zinc-Urine                                                                                          
+00000058,Urinary Stone Analysis                                                                              
+00000059,Allergy (Drugs & Inhalants)                                                                         
+00000060,Allergy Food (Veg)                                                                                  
+00000061,Allergy Food (Veg + Non Veg)                                                                        
+00000062,Allergy Drugs                                                                                       
+00000063,Allergy Package Food (Asthma & Respiratory)                                                         
+00000064,SARS-Cov-2-Anti Spike IgG Antibody                                                                  
+00000065,Covid IgG Antibody                                                                                  
+00000066,Covid-19 Antigen (Qualitative)                                                                      
+00000067,Parietal Cell Antibody                                                                              
+00000068,Intrinsic Factor Antibody - IFA                                                                     
+00000069,Beta HCG - Tumor Marker                                                                             
+00000070,Anti Treponema Pallidum (TPAB) antibody                                                             
+00000071,Culture & Sensitivity - pediatric Aerobic Blood (Auto)                                              
+00000072,Biopsy-Second Opinion-Slides and Block for Review(Upto 4 Blocks & Slides)                           
+00000073,Biopsy-Second Opinion-Slides and Block for Review (5 to 10 Blocks/Slides)                           
+00000074,Biopsy-Second Opinion-Slides and Block for Review (1 block/1 Slide)                                 
+00000075,Dengue & Chikungunya Qualitative PCR                                                                
+00000076,Chlamydia Trachomatis & Neisseria Gonorrhoeae Qualitative PCR                                       
+00000077,Salmonella Qualitative PCR                                                                          
+00000078,IHC-TFE 3                                                                                           
+00000079,IHC PDL-1 (SP263-FDA approved clone)                                                                
+00000080,IHC - TIA-1                                                                                         
+00000081,IHC - Thyroid-Stimulating Hormone (TSH)                                                             
+00000082,IHC - Terminal Deoxynucleotide Transferase (TdT)                                                    
+00000083,IHC - SOX 2                                                                                         
+00000084,IHC - SALL4                                                                                         
+00000085,IHC - PSA (Prostatic Specific Antigen)                                                              
+00000086,IHC - ps2 (Estrogen Regulated Protein)                                                              
+00000087,IHC - PIN 4                                                                                         
+00000088,IHC - P504S (Racemase)                                                                              
+00000089,IHC - p40                                                                                           
+00000090,IHC - Oct-2                                                                                         
+00000091,IHC - OCT 3/4                                                                                       
+00000092,IHC - NKX2.2                                                                                        
+00000093,IHC - Napsin A                                                                                      
+00000094,IHC - Myogenin                                                                                      
+00000095,IHC - MUM-1                                                                                         
+00000096,IHC - Microsatellite Instability for Colorectal Carcinoma PMS-2                                     
+00000097,IHC - Microsatellite Instability for Colorectal Carcinoma MSH-6                                     
+00000098,IHC - Microsatellite Instability for Colorectal Carcinoma MSH-2                                     
+00000099,IHC - Microsatellite Instability for Colorectal Carcinoma MLH-1                                     
+00000100,IHC - Melan A                                                                                       
+00000101,IHC - MDM2                                                                                          
+00000102,IHC - Mammaglobin                                                                                   
+00000103,IHC - LYSOZYME                                                                                      
+00000104,IHC - Langerin                                                                                      
+00000105,IHC - Kappa/Lambda (Dual) Light Chain                                                               
+00000106,IHC - IgG-4                                                                                         
+00000107,IHC - HepPar 1/ HS A                                                                                
+00000108,IHC - Hepatitis B Surface Antigen (HBsAg)                                                           
+00000109,IHC - Hepatitis B core Antigen (HBcAg)                                                              
+00000110,IHC - H-Caldesmon                                                                                   
+00000111,IHC - GRANZYME B                                                                                    
+00000112,IHC - GLYCOPHORIN-A                                                                                 
+00000113,IHC - GLUT-1                                                                                        
+00000114,IHC - GATA-3                                                                                        
+00000115,IHC - GALECTIN-3                                                                                    
+00000116,IHC - FLI-1                                                                                         
+00000117,IHC - Factor XIII a                                                                                 
+00000118,IHC - Epstein Barr virus - EBV-LMP                                                                  
+00000119,IHC - EP CAM                                                                                        
+00000120,IHC - CDX2                                                                                          
+00000121,IHC - CD8                                                                                           
+00000122,IHC - CD7                                                                                           
+00000123,IHC - CD61                                                                                          
+00000124,IHC - CD57                                                                                          
+00000125,IHC - CD56                                                                                          
+00000126,IHC - CD4                                                                                           
+00000127,IHC - CD31                                                                                          
+00000128,IHC - CD2                                                                                           
+00000129,IHC - CD1a                                                                                          
+00000130,IHC - CD 25                                                                                         
+00000131,IHC - CD 123                                                                                        
+00000132,IHC - Calcitonin                                                                                    
+00000133,IHC - CA19.9                                                                                        
+00000134,IHC - CA125                                                                                         
+00000135,IHC - BOB1                                                                                          
+00000136,IHC - BHCG                                                                                          
+00000137,IHC - Beta catenin                                                                                  
+00000138,IHC - BerEP4                                                                                        
+00000139,IHC - ATRX                                                                                          
+00000140,IHC - Alpha-1-Antitrypsin                                                                           
+00000141,IHC - AFP (Alpha-Fetoprotein)                                                                       
+00000142,IHC - AE1/AE3                                                                                       
+00000143,IHC - CD68                                                                                          
+00000144,CD8 (Suppressor T Cell Marker)                                                                      
+00000145,CD79a (B Lymphoid Cell Marker)                                                                      
+00000146,CD7 (Pan TÂ  Cell / Early Myeloid Cell Marker)                                                      
+00000147,CD64 (Monocytic Macrophage Marker)                                                                  
+00000148,CD61 (Megakaryocytic CellÂ  Marker)                                                                 
+00000149,CD59                                                                                                
+00000150,CD58 (PNH Marker)                                                                                   
+00000151,CD55 (PNH Marker)                                                                                   
+00000152,CD5 (T Cell / B Cell Subset)                                                                        
+00000153,CD45 / LCA (Leukocyte Common Antigen)                                                               
+00000154,CD42a (Megakaryocytic Cell Marker)                                                                  
+00000155,CD4 (Pan T Cell Marker)                                                                             
+00000156,CD33 (Myeloid Cell Marker)                                                                          
+00000157,CD3 Absolute Count                                                                                  
+00000158,CD25 (Hairy Cell / NHL Marker)                                                                      
+00000159,CD22 (Pan B Cell Marker)                                                                            
+00000160,CD2 (Pan T Cell Marker)                                                                             
+00000161,CD1a (Pan T Cell Marker)                                                                            
+00000162,Anti Nuclear Antibody-Titre (IFA)                                                                   
+00000163,Radical Specimen - Biopsy                                                                           
+00000164,IHC -Estrogen Receptor/Progesterone Receptor (ER/PR)                                                
+00000165,IHC - Synaptophysin                                                                                 
+00000166,IHC - Ki 67 Marker                                                                                  
+00000167,IHC - Cytokeratin 7                                                                                 
+00000168,24 hrs Urine Potassium                                                                              
+00000169,Anti MOG Antibody                                                                                   
+00000170,Kidney Biopsy ( Immunofluorescence)                                                                 
+00000171,Kidney Biopsy ( HPE)                                                                                
+00000172,Liver Biopsy                                                                                        
+00000173,Flourescent Fungal Stain                                                                            
+00000174,Extractable Nuclear Antigen (ENA) Quantitative                                                      
+00000175,Extractable Nuclear Antigen (ENA) Qualitative                                                       
+00000176,Culture For MRSA                                                                                    
+00000177,Culture & Sensitivity - Tap Water                                                                   
+00000178,Pap Smear Extended Cytology                                                                         
+00000179,Bilirubin - Indirect                                                                                
+00000180,Albumin/Globulin Ratio                                                                              
+00000181,Semen Defragmentation Test                                                                          
+00000182,Mumps- PCR - Qualitative                                                                            
+00000183,URINE SPECIFIC GRAVITY                                                                              
+00000184,Urine Glucose PP                                                                                    
+00000185,Urine Glucose Fasting                                                                               
+00000186,Urine for Chyle                                                                                     
+00000187,Urine Bile salt                                                                                     
+00000188,Urine Bile Pigment                                                                                  
+00000189,Urinary ketones                                                                                     
+00000190,Troponin - T Qualitative                                                                            
+00000191,TROPONIN - I Qualitative                                                                            
+00000192,Tissue Transglutaminase Antibody - IgM                                                              
+00000193,Tissue Processing (Blocks & Slides)                                                                 
+00000194,"TB, PCR (MTB PCR)- Qualitative                                                                      "
+00000195,Sudan Red Stain                                                                                     
+00000196,Rheumatoid Factor IgM Antibody                                                                      
+00000197,Rheumatoid Factor IgG Antibody                                                                      
+00000198,Rheumatoid Factor (RA test) - Quantitative                                                          
+00000199,RH Antibody - Titres                                                                                
+00000200,Reducing Substances                                                                                 
+00000201,Protein Total with Albumin                                                                          
+00000202,Pooled Prolactin                                                                                    
+00000203,Peripheral smear for toxic granulation                                                              
+00000204,PAPP-A                                                                                              
+00000205,"Microalbumin, Urine (24 HRS)                                                                        "
+00000206,Microalbumin                                                                                        
+00000207,"Mercury ,Nail (1 g)                                                                                 "
+00000208,"Mercury ,Hair                                                                                       "
+00000209,Measles - PCR - Qualitative                                                                         
+00000210,Liver-Kidney Microsomal (LKM) - 1 Antibody                                                          
+00000211,Kidney Function Test with Electrolytes                                                              
+00000212,Kidney Function Test Mini                                                                           
+00000213,HIV DUO                                                                                             
+00000214,HIV 1 & 2 Antibody (Quantitative)                                                                   
+00000215,Glycophorin (Erythroid Cell  Marker)                                                                
+00000216,Giemsa Stain                                                                                        
+00000217,Free Androgen Index                                                                                 
+00000218,Factor-V                                                                                            
+00000219,Epstein Bar Virus IgM                                                                               
+00000220,Epstein Bar Virus IgG                                                                               
+00000221,Entamoeba Histolytica Detection                                                                     
+00000222,"Entamoeba histolytica (amoebiasis), Antibody, IgG                                                   "
+00000223,Endomysial Antibody IgM                                                                             
+00000224,Drugs of Abuse 10 Drugs Panel                                                                       
+00000225,Diphtheria IgG                                                                                      
+00000226,Differential Count (DC)                                                                             
+00000227,Desmoglein III                                                                                      
+00000228,Desmoglein I                                                                                        
+00000229,Dehydroepiandrosterone (DHEA)                                                                       
+00000230,CYFRA 21.1 (Lung Cancer Marker)                                                                     
+00000231,Culture & Sensitivity - Miscellaneous (Conv)                                                        
+00000232,Culture & Sensitivity - Environment Swab (Conv)                                                     
+00000233,Culture & Sensitivity - Body fluids (Auto)                                                          
+00000234,Culture & Sensitivity - AFB (Auto)                                                                  
+00000235,Culture & Sensitivity - Broncho alveolar lavage (BAL) - (Auto)                                      
+00000236,"Circulating Immunocomplex (CIC) ,Serum                                                              "
+00000237,"Chromosome Analysis, Products of conception                                                         "
+00000238,"Chromosome Analysis, Cord Blood                                                                     "
+00000239,"Chromosome Analysis, Bone Marrow                                                                    "
+00000240,"Chromosome Analysis, Blood                                                                          "
+00000241,Chikungunya IgM                                                                                     
+00000242,CD4 Absolute Count                                                                                  
+00000243,CD3/CD4/CD8                                                                                         
+00000244,CBC+ESR                                                                                             
+00000245,C-Peptide PP                                                                                        
+00000246,Bone Marrow Smear Examination                                                                       
+00000247,Biopsy - Small Specimen (< 2cm)                                                                     
+00000248,Biopsy - Medium Specimen (upto 5cm)                                                                 
+00000249,Biopsy - Large Specimen (> 5cm)                                                                     
+00000250,Biopsy - Extra Large Specimen                                                                       
+00000251,Biopsy - Bone                                                                                       
+00000252,Bilirubin Direct                                                                                    
+00000253,Bilirubin (Total + Direct)                                                                          
+00000254,"Beta Human Chorionic Gonadotropin Hormone ,Urine                                                    "
+00000255,APO-A1/APO-B Ratio                                                                                  
+00000256,Anti Streptolysin (ASO) - Qualitative                                                               
+00000257,Anti Smooth Muscle Antibody - Titre (ASMA)                                                          
+00000258,Anti phospholipid antibody IgA                                                                      
+00000259,Anti Neutrophilic Cytoplasmic Antibody (ANCA) Titers                                                
+00000260,Anti Neutrophilic Cytoplasmic Antibody (ANCA-IFA)                                                   
+00000261,Androstenedione (A4)                                                                                
+00000262,ANA Panel Serum                                                                                     
+00000263,Advance Kidney Function Test                                                                        
+00000264,Acid Phosphatase - Prostatic (PAP)                                                                  
+00000265,24 Hrs Urinary Cortisol/Creatinine Ratio                                                            
+00000266,Glucose Challenge Test (50g) - 1 Hour                                                               
+00000267,Total iron binding capacity                                                                         
+00000268,Vitamin - C                                                                                         
+00000269,Anti SARS CoV2 IgG (ELFA)                                                                           
+00000270,TTG DGP Serum                                                                                       
+00000271,Clotting Time                                                                                       
+00000272,BleedingTime                                                                                        
+00000273,Thyroxine - Free (FT4)                                                                              
+00000274,FT3                                                                                                 
+00000275,FSH LH Prolactin                                                                                    
+00000276,Anti HCV -RAPID                                                                                     
+00000277,25-Hydroxy Vitamin D ( Vitamin-D)                                                                   
+00000278,Non-Invasive Prenatal Testing                                                                       
+00000279,"Immunohistochemistry, IDH1                                                                          "
+00000280,Hepatitis C - Genotyping                                                                            
+00000281,Hepatitis B - Genotyping                                                                            
+00000282,Factor-V Leiden Mutation - Qualitative                                                              
+00000283,EGFR Mutation Detection                                                                             
+00000284,"BCR ABL qualitative gene fusion analysis, RTPCR                                                     "
+00000285,2019 Novel Corona Virus - RT PCR                                                                    
+00000286,"Zinc , Serum                                                                                        "
+00000287,Vitamin E                                                                                           
+00000288,Vitamin - B6                                                                                        
+00000289,Vitamin - B1                                                                                        
+00000290,Vitamin - A                                                                                         
+00000291,"Varicella zoster virus (VZV) antibody, IgM                                                          "
+00000292,"Varicella Zoster Virus (VZV) antibody, IgG                                                          "
+00000293,"Vanillylmandelic Acid (VMA), Random urine                                                           "
+00000294,"Vanillylmandelic Acid (VMA), 24 hours urine                                                         "
+00000295,Urine urobilinogen                                                                                  
+00000296,Osmolality - Urine                                                                                  
+00000297,"Estriol, Unconjugated (E3)                                                                          "
+00000298,"Tumour Necrosis Factor (TNF), Alpha                                                                 "
+00000299,"Treponema pallidum haemagglutination (TPHA), Serum                                                  "
+00000300,Toxoplasma DNA PCR - Qualitative                                                                    
+00000301,"Toxoplasma avidity, IgG                                                                             "
+00000302,"Toxoplasma antibody, IgM                                                                            "
+00000303,"Toxoplasma antibody, IgG                                                                            "
+00000304,"TORCH antibody panel, IgM                                                                           "
+00000305,"TORCH antibody panel, IgG                                                                           "
+00000306,Tissue Transglutaminase Antibody - IgG                                                              
+00000307,Tissue Transglutaminase Antibody - IgA                                                              
+00000308,Thyroxin Binding Globulin                                                                           
+00000309,TSH Receptor Antibodies                                                                             
+00000310,"Thyroglobulin level, Serum                                                                          "
+00000311,Thrombophilia profile 1                                                                             
+00000312,Thrombin time                                                                                       
+00000313,Culture & Sensitivity - Throat Swab (Auto)                                                          
+00000314,"Tetanus Toxoid, IgG                                                                                 "
+00000315,"Testosterone, Total and Free                                                                        "
+00000316,"Testosterone, Total                                                                                 "
+00000317,Tacrolimus level                                                                                    
+00000318,Culture & Sensitivity - Stool (Auto)                                                                
+00000319,Anti SS-B Antibody                                                                                  
+00000320,Anti SS-A Antibody                                                                                  
+00000321,Culture & Sensitivity - Sputum (Auto)                                                               
+00000322,Valporic Acid (Sodium Valproate)                                                                    
+00000323,Sickling test                                                                                       
+00000324,Sex hormone binding globulin (SHBG)                                                                 
+00000325,Serum Ascites Albumin Gradient (SAAG)                                                               
+00000326,Triple Marker                                                                                       
+00000327,Quadruple Marker                                                                                    
+00000328,SCL-70 Antibody                                                                                     
+00000329,Rubella IgG Avidity                                                                                 
+00000330,Rota Virus Antigen                                                                                  
+00000331,RBC Folate                                                                                          
+00000332,Culture & Sensitivity - Pus (Auto)                                                                  
+00000333,Protein S                                                                                           
+00000334,Protein S Antigen - Free                                                                            
+00000335,Protein Electrophoresis - Serum                                                                     
+00000336,Protein Electrophoresis - Urine                                                                     
+00000337,Protein C                                                                                           
+00000338,Protein C Antigen                                                                                   
+00000339,"Prolactin, Serum                                                                                    "
+00000340,"Procalcitonin, Serum                                                                                "
+00000341,"Porphobilinogen (PBG), Quantitative, 24 hours urine                                                 "
+00000342,"Porphobilinogen (PBG), Qualitative, Urine                                                           "
+00000343,Phosphatidylserine antibody IgM                                                                     
+00000344,Phosphatidylserine antibody IgG                                                                     
+00000345,"Phenytoin, Serum                                                                                    "
+00000346,"Phenobarbitone level, Serum                                                                         "
+00000347,Parvovirus B19 Antibody IgM                                                                         
+00000348,"Pap smear, Conventional                                                                             "
+00000349,PAN-Fungal Qualitative Assay                                                                        
+00000350,"Oxalate, Random urine                                                                               "
+00000351,Osmotic fragility test/Eosin 5 maleimide (EMA) for Hereditary spherocytosis                         
+00000352,"Oligoclonal bands, CSF                                                                              "
+00000353,N-terminal pro B type natriuretic peptide (NT-pro BNP)                                              
+00000354,Nor Metanephrines - Free                                                                            
+00000355,"Nor-epinephrine, Random urine                                                                       "
+00000356,CD56 (Natural Killer Cells)                                                                         
+00000357,Myoglobulin - Urine                                                                                 
+00000358,Myoglobulin                                                                                         
+00000359,Mumps Virus Antibody IgM                                                                            
+00000360,Mumps Virus Antibody IgG                                                                            
+00000361,"Methyl tetrahydro folate reductase (MTHFR) I & II muation analysis, PCR                             "
+00000362,"Metanephrines, 24 hours urine                                                                       "
+00000363,"Metanephrine, Free, Plasma                                                                          "
+00000364,"Mercury ,Urine                                                                                      "
+00000365,Mercury - Serum                                                                                     
+00000366,Measles Antibody IgM                                                                                
+00000367,Measles Antibody IgG                                                                                
+00000368,Luteinising Hormone (LH)                                                                            
+00000369,Lupus Anticoagulant                                                                                 
+00000370,Lithium (Li)                                                                                        
+00000371,Lipoprotein a (Lp-a)                                                                                
+00000372,"Lipase, Body fluid                                                                                  "
+00000373,Leptospira DNA PCR - Qualitative                                                                    
+00000374,Leptospira Antibody IgG                                                                             
+00000375,LE cell phenomenon                                                                                  
+00000376,"Lead, whole blood, Electrochemical assay                                                            "
+00000377,"Lactate, Plasma                                                                                     "
+00000378,"Lactate, CSF                                                                                        "
+00000379,KOH-Fungal stain                                                                                    
+00000380,Anti Jo-I antibody                                                                                  
+00000381,Interleukin 6                                                                                       
+00000382,TB-Gold Quantiferon                                                                                 
+00000383,Insulin - Like Growth Factor (IGF-I)                                                                
+00000384,Inhibin- B                                                                                          
+00000385,Inhibin- A                                                                                          
+00000386,"Immunohistochemistry, WT-1                                                                          "
+00000387,"Immunohistochemistry, Vimentin                                                                      "
+00000388,"Immunohistochemistry, TLE1                                                                          "
+00000389,IHC - Prolactin                                                                                     
+00000390,IHC - PR (Progesterone Receptor)                                                                    
+00000391,IHC - PAX 8                                                                                         
+00000392,IHC - PAX 5                                                                                         
+00000393,IHC - P63                                                                                           
+00000394,IHC - P53 Tumor Suppressor Protein                                                                  
+00000395,"Immunohistochemistry, p16INK4a                                                                      "
+00000396,"Immunohistochemistry, Lambda light chains                                                           "
+00000397,"Immunohistochemistry, Kappa light chains                                                            "
+00000398,IHC - HER-2/neu                                                                                     
+00000399,IHC - Growth Hormone (GH)                                                                           
+00000400,IHC - GLYPICAN-3                                                                                    
+00000401,IHC - Follicle Stimulating Hormone (FSH)                                                            
+00000402,IHC - ER                                                                                            
+00000403,IHC - E-Cadherin                                                                                    
+00000404,IHC - DOG-1                                                                                         
+00000405,IHC - Cytokeratin 5/6 - CK5/6                                                                       
+00000406,IHC - CEA                                                                                           
+00000407,IHC - CD99                                                                                          
+00000408,"Immunohistochemistry, CD45 (LCA)                                                                    "
+00000409,IHC - CD 35                                                                                         
+00000410,IHC - CD34                                                                                          
+00000411,CD3 (Pan T Cell Marker)                                                                             
+00000412,CD23 (CLL Segregation Marker)                                                                       
+00000413,IHC - CD21                                                                                          
+00000414,IHC - CD138                                                                                         
+00000415,IHC - Calretinin                                                                                    
+00000416,IHC - ALK-D5F3 for Lung Tumors (FDA approved clone)                                                 
+00000417,IHC - Adrenocorticotropic Hormone (ACTH)                                                            
+00000418,IHC - 34 Beta E12(HMWCK)                                                                            
+00000419,Immunoglobulin Subclass IgG4                                                                        
+00000420,"Immunoglobulin IgM, Serum                                                                           "
+00000421,Immunoglobulin IgG synthesis index and rate                                                         
+00000422,"Immunoglobulin IgG, Serum                                                                           "
+00000423,"Immunoglobulin IgA, Serum                                                                           "
+00000424,"Immunofixation electrophoresis (IFE), Qualitative, Urine                                            "
+00000425,"Immunofixation electrophoresis (IFE), Qualitative, Serum                                            "
+00000426,Immature Platelet fraction                                                                          
+00000427,Human papiloma virus (HPV) detection                                                                
+00000428,"Human Immunodeficiency virus (HIV) 1 viral load, Quantiative, PCR                                   "
+00000429,"HOMA-IR, Insulin resistance index                                                                   "
+00000430,HLA B 27 Qualitative PCR                                                                            
+00000431,"HLA-B27, Flow cytometry                                                                             "
+00000432,Anti Histones Antibodies - IgG                                                                      
+00000433,"Herpes simplex virus (HSV) type I & type II, Qualitative, PCR, CSF                                  "
+00000434,"Herpes simplex virus (HSV) type I & II, Qualitative, PCR                                            "
+00000435,"Herpes simplex virus (HSV) type I & II antibody, IgM                                                "
+00000436,"Herpes simplex virus (HSV) type I & II antibody, IgG                                                "
+00000437,"Herpes simplex virus (HSV) type II antibody, IgM                                                    "
+00000438,"Herpes simplex virus (HSV) type II antibody, IgG                                                    "
+00000439,"Herpes simplex virus (HSV) type I antibody, IgM                                                     "
+00000440,"Herpes simplex virus (HSV) type I antibody, IgG                                                     "
+00000441,"Herpes simplex virus (HSV) antibody panel, IgG & IgM, Serum                                         "
+00000442,"Hepatitis E virus antibody (anti-HEV), IgM                                                          "
+00000443,"Hepatitis E virus antibody (anti-HEV), IgG                                                          "
+00000444,"Hepatitis C virus antibody (anti-HCV), IgM                                                          "
+00000445,Anti HCV-Total (Antibodies to Hepatitis C Virus)                                                    
+00000446,"Hepatitis C viral (HCV) load, Quantitative, PCR                                                     "
+00000447,"Hepatitis C viral (HCV) load, Qualitative, PCR                                                      "
+00000448,"Hepatitis B viral DNA (HBV DNA), Quantitative, RT-PCR                                               "
+00000449,"Hepatitis B viral DNA (HBV DNA), Qualitative, RT-PCR                                                "
+00000450,Hepatitis B surface Antibody Total (Anti HBs)                                                       
+00000451,Hepatitis B Envelope Antigen (HBeAg)                                                                
+00000452,Hepatitis B envelope Antibody (AntiHBe)                                                             
+00000453,Hepatitis B Core Antibody Total (HBcAb- Total)                                                      
+00000454,Hepatitis A Virus - IgM (Anti-HAV IgM)                                                              
+00000455,Hepatitis A virus - (HAV IgG) Total                                                                 
+00000456,"Hemosiderin, Urine                                                                                  "
+00000457,Hemoglobin (Hb) electrophoresis (HPLC)                                                              
+00000458,H. Pylori Antigen                                                                                   
+00000459,Helicobacter Pylori IgM                                                                             
+00000460,Helicobacter Pylori IgG                                                                             
+00000461,Helicobacter Pylori IgA                                                                             
+00000462,Haptoglobin                                                                                         
+00000463,"Haematology 3 (Hb%, TCDC, ESR & Platelet)                                                           "
+00000464,"Haematology 2 (Hb%, TCDC & ESR)                                                                     "
+00000465,H1N1 (Swine Flu) Qualitative PCR                                                                    
+00000466,Growth Hormone (HGH)                                                                                
+00000467,GAD-65(Glutamic Acid Decarboxylase) Antibody                                                        
+00000468,Glucose 6 Phosphate Dehydrogenase (G6PD Quantitative)                                               
+00000469,CBNAAT                                                                                              
+00000470,Gastrin Level                                                                                       
+00000471,Galactomannan - Aspergillus Antigen                                                                 
+00000472,Culture & Sensitivity - Fungus (Auto)                                                               
+00000473,Fructosamine                                                                                        
+00000474,Free Thyroid profile                                                                                
+00000475,"Free light chains (Kappa & Lambda), Serum                                                           "
+00000476,"Free lambda light chain, Serum                                                                      "
+00000477,"Free Kappa light chains, Serum                                                                      "
+00000478,"Free Cortisol, 24 hours Urine                                                                       "
+00000479,Follicle Stimulating Hormone (FSH)                                                                  
+00000480,"First Trimester Prenatal screening, Double Marker (11 weeks to 14 weeks)                            "
+00000481,Fibrinogen                                                                                          
+00000482,Fibrinogen Degradation Product (FDP)                                                                
+00000483,Calprotectin - Fecal                                                                                
+00000484,Fat Globules                                                                                        
+00000485,"Factor VIII, Functional assay                                                                       "
+00000486,"Factor IX, Functional assay                                                                         "
+00000487,Erythropoietin (EPO)                                                                                
+00000488,"Epidermal (pemphigus) antibody, (in dilutions)                                                      "
+00000489,Endomysial Antibody IgG                                                                             
+00000490,Endomysial Antibody IgA                                                                             
+00000491,"Echinococcus Antibody, IgG (Hydatid serology)                                                       "
+00000492,Renin Activity                                                                                      
+00000493,"Digoxin, Serum                                                                                      "
+00000494,Dengue Qualitative PCR                                                                              
+00000495,Dehydroepiandrosterone Sulphate (DHEAS)                                                             
+00000496,Cytomegalovirus (CMV) DNA Quantitative PCR                                                          
+00000497,Cytomegalovirus (CMV) DNA Qualitative PCR                                                           
+00000498,"Cytomegalovirus (CMV) Avidity, IgG                                                                  "
+00000499,Cytomegalovirus IgM Antibody                                                                        
+00000500,Cytomegalovirus IgG Antibody                                                                        
+00000501,"Cytology examination, Body fluids                                                                   "
+00000502,Anti Cysticercosis (IgG) Antibody                                                                   
+00000503,Cystatin C                                                                                          
+00000504,Cryptococcus Antigen                                                                                
+00000505,Covid-19 Total Antibody Test                                                                        
+00000506,Cotinine Test                                                                                       
+00000507,Copper - Serum                                                                                      
+00000508,Copper - Urine                                                                                      
+00000509,"Citrate ,Urine (24 Hrs)                                                                             "
+00000510,Chromogranin - A                                                                                    
+00000511,Chromium - Whole Blood                                                                              
+00000512,Cholinesterase                                                                                      
+00000513,"Chlamydia Trachomatis, antibody, IgM, Serum                                                         "
+00000514,"Chlamydia Trachomatis Antibody, IgG                                                                 "
+00000515,Chikungunya Real time PCR                                                                           
+00000516,"Ceruloplasmin, Serum                                                                                "
+00000517,"CD 34, Stem cell enumeration, Flow cytometry                                                        "
+00000518,"CD 20, Flow cytometry                                                                               "
+00000519,"CD 19, Flow cytometry                                                                               "
+00000520,Catecholamines                                                                                      
+00000521,Cardiolipin IgM Antibody                                                                            
+00000522,Cardiolipin IgG Antibody                                                                            
+00000523,Cardiolipin IgA Antibody                                                                            
+00000524,"Carcinoembryonic Antigen (CEA), Serum                                                               "
+00000525,CA19.9 - Pancreatic Cancer Marker                                                                   
+00000526,Carbamazepine (Tegretol)                                                                            
+00000527,"Calcium, Ionised, Serum                                                                             "
+00000528,Calcitonin                                                                                          
+00000529,"CA 72.4, Gastric cancer marker                                                                      "
+00000530,CA15.3 - Breast Cancer marker                                                                       
+00000531,Brucella Agglutination                                                                              
+00000532,"Bone marrow, Trephine biopsy                                                                        "
+00000533,"Bile acids, Total, Serum                                                                            "
+00000534,Beta Human Chorionic Gonadotropin Hormone (Free)                                                    
+00000535,"Beta 2 Microglobullin, Serum                                                                        "
+00000536,"Beta 2 Glycoprotein, IgM, Serum/Plasma                                                              "
+00000537,"Beta 2 Glycoprotein, IgG, Serum/Plasma                                                              "
+00000538,"Beta 2 Glycoprotein 1, IgA                                                                          "
+00000539,BCR-ABL Gene Translocation (Quantitative)                                                           
+00000540,VLDL                                                                                                
+00000541,Urine complete analysis                                                                             
+00000542,Urea:Creat                                                                                          
+00000543,Triglycerides                                                                                       
+00000544,Total Protein                                                                                       
+00000545,Total Cholestrol                                                                                    
+00000546,Total Cholesterol : HDL                                                                             
+00000547,Total Bilirubin                                                                                     
+00000548,Thyroid profile                                                                                     
+00000549,TG:VLDL                                                                                             
+00000550,SGPT                                                                                                
+00000551,SGOT : SGPT                                                                                         
+00000552,SGOT                                                                                                
+00000553,Renal function test                                                                                 
+00000554,RDW-SD                                                                                              
+00000555,RDW-CV                                                                                              
+00000556,RBS                                                                                                 
+00000557,Prothrombin Time (with INR)                                                                         
+00000558,PPBS                                                                                                
+00000559,Platelets                                                                                           
+00000560,Phosphorus                                                                                          
+00000561,PDW                                                                                                 
+00000562,Partial Thromboplastin Time                                                                         
+00000563,Non HDL                                                                                             
+00000564,Neutrophil %                                                                                        
+00000565,MPV                                                                                                 
+00000566,Monocytes %                                                                                         
+00000567,MCV                                                                                                 
+00000568,MCHC                                                                                                
+00000569,MCH                                                                                                 
+00000570,Lymphocytes %                                                                                       
+00000571,Liver function tests                                                                                
+00000572,Leucocytes                                                                                          
+00000573,LDL Cholesterol                                                                                     
+00000574,LDL : HDL                                                                                           
+00000575,LDL                                                                                                 
+00000576,Islet Cell Antibodies                                                                               
+00000577,Indirect Bilirubin                                                                                  
+00000578,IAA2                                                                                                
+00000579,Hemoglobin                                                                                          
+00000580,Hematocrit                                                                                          
+00000581,HDL Cholesterol                                                                                     
+00000582,HDL : LDL                                                                                           
+00000583,HDL                                                                                                 
+00000584,HbA1c                                                                                               
+00000585,Haemogram                                                                                           
+00000586,Haematology                                                                                         
+00000587,Globulin                                                                                            
+00000588,GGTP                                                                                                
+00000589,GFR Calculated                                                                                      
+00000590,Fasting Blood Sugar                                                                                 
+00000591,ESR                                                                                                 
+00000592,Erythrocytes                                                                                        
+00000593,Eosinophils %                                                                                       
+00000594,eGFR                                                                                                
+00000595,Direct Bilirubin                                                                                    
+00000596,Diabetic profile                                                                                    
+00000597,Corrected Calcium                                                                                   
+00000598,Clotting time test                                                                                  
+00000599,Chloride                                                                                            
+00000600,C-Peptide: Post Meal                                                                                
+00000601,C-Peptide: Fasting                                                                                  
+00000602,BUN:Creat                                                                                           
+00000603,BUN                                                                                                 
+00000604,Blood Urea                                                                                          
+00000605,Blood grouping test                                                                                 
+00000606,Bleeding time test                                                                                  
+00000607,Biochemistry                                                                                        
+00000608,Basophil %                                                                                          
+00000609,Base panel                                                                                          
+00000610,Anti GAD Ab                                                                                         
+00000611,Alkaline Phosphatase                                                                                
+00000612,Abs. Neutrophil                                                                                     
+00000613,Abs. Monocyte                                                                                       
+00000614,Abs. Lymphocyte                                                                                     
+00000615,Abs. Basophil                                                                                       
+00000616,A/G Ratio                                                                                           
+00000617,"Autoimmune Encephalitis Panel, IFA                                                                  "
+00000618,Aspergillus IgM Antibody                                                                            
+00000619,Aspergillus IgG Antibody                                                                            
+00000620,"ASCA(Anti Sacccharomyces Cerevisiae Antibody),IgG                                                   "
+00000621,"ASCA(Anti Sacccharomyces Cerevisiae Antibody),IgA                                                   "
+00000622,Apolipoprotein B (APO-B)                                                                            
+00000623,Apolipoprotein A1 (APO-A1)                                                                          
+00000624,Anti Thrombin III (Antigenic)                                                                       
+00000625,ANTI - ss DNA ANTIBODY                                                                              
+00000626,Anti Sperm Antibody (ASAB)                                                                          
+00000627,Anti Smooth Muscle Antibody (ASMA)                                                                  
+00000628,"Anti Nuclear Antibody (CTD Screen) Test, EIA                                                        "
+00000629,Anti-Aquaporin Antibody / NMO Antibody                                                              
+00000630,Anti NMDA Receptor Encephalitis IgG Antibodies - CSF                                                
+00000631,"Anti NMDA receptor/Anti Glutamate Antibody, CSF, IFA                                                "
+00000632,ANCA - Myeloperoxidase (p-ANCA)                                                                     
+00000633,Anti Mullerian Hormone ( AMH)                                                                       
+00000634,"Anti Mitochondrial Antibody ,Serum                                                                  "
+00000635,Gliadin Antibody IgG                                                                                
+00000636,Gliadin Antibody IgA                                                                                
+00000637,Microfilaria Antigen                                                                                
+00000638,"Anti ds DNA antibody, IFA                                                                           "
+00000639,"Anti ds DNA antibody, EIA                                                                           "
+00000640,Anti Cyclic Citrullinated Peptide (CCP)                                                             
+00000641,Anti B titre                                                                                        
+00000642,Anti Thyroglobulin Antibody (ATG)                                                                   
+00000643,Hepatitis B Core Antibody IgM (Anti HBc - IgM)                                                      
+00000644,Angiotensin Converting Enzyme (ACE)                                                                 
+00000645,ANCA - Serine Proteinase 3 (c-ANCA)                                                                 
+00000646,ANCA (Anti Neutrophil Cytoplasmic antibody) by IFA with reflex testing for MPO & PR3 by EIA         
+00000647,"Aluminum, Serum                                                                                     "
+00000648,Alpha-1 Antitrypsin (AAT)                                                                           
+00000649,Aspergillus IgE specific allergen                                                                   
+00000650,Aldosterone                                                                                         
+00000651,Aldolase                                                                                            
+00000652,"Alcohol ,Urine Random                                                                               "
+00000653,Alcohol serum                                                                                       
+00000654,Adreno Corticotrophic Hormone (ACTH)                                                                
+00000655,Acetyl Chloine Receptor Antibody                                                                    
+00000656,5-a Dihydrotestosterone                                                                             
+00000657,17-alpha Hydroxy Progesterone (17-OHP)                                                              
+00000658,Widal Test (Tube Test)                                                                              
+00000659,Widal Test (Slide Test)                                                                             
+00000660,Weil - Felix Test                                                                                   
+00000661,"Vitamin D3 1, 25 -Dihydroxy, Serum                                                                  "
+00000662,Vitamin B9 (Folic acid)                                                                             
+00000663,VDRL Qualitative                                                                                    
+00000664,Urine Complete Analysis                                                                             
+00000665,"Uric acid, Urine                                                                                    "
+00000666,Uric Acid - Serum                                                                                   
+00000667,"Urea, urine                                                                                         "
+00000668,Urea - Serum                                                                                        
+00000669,Typhidot (Serum)                                                                                    
+00000670,"Troponin-I, Serum                                                                                   "
+00000671,Triglycerides (TG)                                                                                  
+00000672,Transferrin Saturation                                                                              
+00000673,Total WBC count                                                                                     
+00000674,Creatinine Kinase (CPK)                                                                             
+00000675,TC DC                                                                                               
+00000676,Thyroid Stimulating Hormone (TSH)                                                                   
+00000677,Thyroid Function Test (TFT)                                                                         
+00000678,"Testosterone, Free                                                                                  "
+00000679,Thyroxine - Total (TT4)                                                                             
+00000680,TriIodothyronine Total (TT3)                                                                        
+00000681,Stool Hanging drop                                                                                  
+00000682,Stool Complete Analysis                                                                             
+00000683,"Sodium, Urine                                                                                       "
+00000684,Sodium                                                                                              
+00000685,Serum Osmolality                                                                                    
+00000686,Semen Analysis                                                                                      
+00000687,Rubella Virus - IgM                                                                                 
+00000688,Rubella Virus - IgG                                                                                 
+00000689,Reticulocyte Count                                                                                  
+00000690,Erythrocyte Count (RBC Count)                                                                       
+00000691,Insulin - Random                                                                                    
+00000692,Glucose - Random                                                                                    
+00000693,Prothrombin Time (PT)                                                                               
+00000694,Protein - Serum                                                                                     
+00000695,"Protein, Total, Random urine                                                                        "
+00000696,"Protein, Total, CSF                                                                                 "
+00000697,"Protein, Total, body fluids                                                                         "
+00000698,"Protein, Total, 24 hours urine                                                                      "
+00000699,"Protein Creatinine ratio, Urine                                                                     "
+00000700,Prostate Specific Antigen (PSA)                                                                     
+00000701,"Prostatic Specific Antigen (PSA), Free, Serum                                                       "
+00000702,Progesterone                                                                                        
+00000703,Pregnancy Test                                                                                      
+00000704,Potassium                                                                                           
+00000705,Potassium Urine                                                                                     
+00000706,Insulin - Post Prandial                                                                             
+00000707,Platelet count                                                                                      
+00000708,Phosphorous - Serum                                                                                 
+00000709,"Phosphorus, 24 hours urine                                                                          "
+00000710,"Parathyroid Hormone (PTH), Intact, Serum                                                            "
+00000711,Hematocrit(Packed cell volume)                                                                      
+00000712,Stool Occult Blood                                                                                  
+00000713,"Microalbumin creatinine ratio, Urine                                                                "
+00000714,Malaria Parasite Identification                                                                     
+00000715,Malarial Falciparum and Vivax Antigen (Parasite V & F)                                              
+00000716,Magnesium (MG) Serum                                                                                
+00000717,Cholesterol - LDL                                                                                   
+00000718,Liver Funtion Test with GGT                                                                         
+00000719,"Lipase, Serum                                                                                       "
+00000720,Leptospira Antibody IgM                                                                             
+00000721,Lactate Dehydrogenase (LDH) Body Fluid                                                              
+00000722,Lactate Dehydrogenase (LDH) Serum                                                                   
+00000723,Iron Profile                                                                                        
+00000724,Total Iron                                                                                          
+00000725,Coombs Test - Indirect                                                                              
+00000726,Negative Stain (India Ink)                                                                          
+00000727,Immunoglobulin E (IgE)                                                                              
+00000728,"Homocysteine, Serum                                                                                 "
+00000729,Hepatitis B Surface antigen (HBsAg)-Qualitative                                                     
+00000730,Hepatitis B Surface antigen HBsAg (ECLIA)                                                           
+00000731,Haemoglobin (Hb)                                                                                    
+00000732,HB TC DC                                                                                            
+00000733,Gram Stain                                                                                          
+00000734,Glucose Tolerance Test [GTT] - 3 samples                                                            
+00000735,Glucose Tolerance Test [GTT] - 2 samples                                                            
+00000736,Glucose Challenge Test(75 g)-Two hour                                                               
+00000737,Glucose Challenge Test(75 g)-one hour                                                               
+00000738,Gamma Glutamyl Transferase (GGT)                                                                    
+00000739,Insulin - Fasting                                                                                   
+00000740,Fasting Glucose- FBS                                                                                
+00000741,Estradiol (E2)                                                                                      
+00000742,Erythrocyte Sedimentation Rate (ESR)                                                                
+00000743,"ELECTROLYTES (Na+, K+, Cl) - SERUM                                                                  "
+00000744,Electrolyte Urine                                                                                   
+00000745,Coombs Test - Direct                                                                                
+00000746,Dengue - NS1 Antigen (Quantitative)                                                                 
+00000747,Dengue IgM (Quantitative)                                                                           
+00000748,Dengue IgM (Qualitative)                                                                            
+00000749,Dengue IgG (Quantitative)                                                                           
+00000750,Dengue IgG (Qualitative)                                                                            
+00000751,Dengue Profile (Qualitative)                                                                        
+00000752,Dengue Profile (Quantitative)                                                                       
+00000753,D-Dimer                                                                                             
+00000754,CSF analysis                                                                                        
+00000755,Serum Creatinine                                                                                    
+00000756,"Creatinine, Random urine                                                                            "
+00000757,"Creatinine clearance, 24 hours Urine                                                                "
+00000758,"Creatinine, 24 hours Urine                                                                          "
+00000759,Creatine Phosphokinase (CPK)-MB                                                                     
+00000760,"C-reactive protein ( HSCRP), High sensitive                                                         "
+00000761,C-Reactive Protein (CRP)                                                                            
+00000762,C-Peptide (Random)                                                                                  
+00000763,Cortisol (Random)                                                                                   
+00000764,Cortisol - AM                                                                                       
+00000765,Cortisol - PM                                                                                       
+00000766,Hemogram (CBC+ESR+PS)                                                                               
+00000767,Complement 4 (C4) level                                                                             
+00000768,Complement 3 (C3) level                                                                             
+00000769,Complement 3 (C3) and Complement 4 (C4) level                                                       
+00000770,Chloride - Serum                                                                                    
+00000771,Chloride - Urine                                                                                    
+00000772,CA-125                                                                                              
+00000773,"Calcium, Urine                                                                                      "
+00000774,Calcium                                                                                             
+00000775,"Calcium creatinine ratio, Urine                                                                     "
+00000776,"Calcium, Body fluids                                                                                "
+00000777,Body Fluid Analysis                                                                                 
+00000778,Blood Picture - Peripheral Smear Examination                                                        
+00000779,"Blood Grouping (A,B,O) and Rh factor                                                                "
+00000780,"Bicarbonate, Serum                                                                                  "
+00000781,BETA HCG Total                                                                                      
+00000782,Urine Bence Jones Proteins                                                                          
+00000783,Anti thyroid peroxidase (Anti-TPO) antibody                                                         
+00000784,"Antistreptolysin O (ASO), Serum                                                                     "
+00000785,"Amylase, Urine                                                                                      "
+00000786,"Amylase, Serum                                                                                      "
+00000787,"Amylase ,Body Fluid                                                                                 "
+00000788,"Alpha Feto Protein (AFP), Serum                                                                     "
+00000789,"Alpha Feto Protein (AFP), CSF                                                                       "
+00000790,"Alpha Feto Protein (AFP), Body fluids                                                               "
+00000791,Alkaline Phosphatase (ALP)                                                                          
+00000792,Albumin                                                                                             
+00000793,Alanine AminoTransferase/ ALT (SGPT)                                                                
+00000794,AFB smear                                                                                           
+00000795,"Adenosine Deaminase (ADA), Serum                                                                    "
+00000796,"Adenosine Deaminase (ADA), Body Fluids                                                              "
+00000797,Activated Partial Thromboplastin Time (APTT/PTTK)                                                   
+00000798,Acid Phosphatase                                                                                    
+00000799,Absolute Neutrophil Count (ANC)                                                                     
+00000800,Absolute Lymphocyte Count (ALC)                                                                     
+00000801,Absolute Eosinophil Count (AEC)                                                                     
+00000802,Extended Thyroid Profile                                                                            
+00000803,"Dengue Antigen NSI, IgG and IgM                                                                     "
+00000804,Peripheral Smear                                                                                    
+00000805,Erythrocyte Sedimentation Rate                                                                      
+00000806,HbA1C (Glycated hemoglobin)                                                                         
+00000807,Vitamin D (25-OH)                                                                                   
+00000808,Vitamin B12                                                                                         
+00000809,C- Reactive Protein Quantitative                                                                    
+00000810,C-Reactive Protein Qualitative                                                                      
+00000811,Urine Culture and Sensitivity                                                                       
+00000812,Urine Routine & Microscopy                                                                          
+00000813,Serum Electrolyte                                                                                   
+00000814,Thyroid profile Total                                                                               
+00000815,Glucose - Postprandial                                                                              
+00000816,Glucose - Fasting                                                                                   
+00000817,Kidney Function Test                                                                                
+00000818,Liver Function Test                                                                                 
+00000819,Complete Blood Count (CBC)                                                                          
+00000820,Rapid Antigen Test (RAT)                                                                            
+00000874,X-Ray Lumbosacral spine AP view                                                                     
+00000875,X-Ray Soft Tissue Neck Lateral                                                                      
+00000876,X-Ray PNS (Water's View)                                                                            
+00000877,X-Ray Ankle Lateral View                                                                            
+00000878,X-Ray Ankle Mortise View                                                                            
+00000879,X-Ray Ankle (Unilateral) AP view                                                                    
+00000880,X-Ray Pelvis with Bilateral hips AP view                                                            
+00000881,Lumbosacral spine Lateral view                                                                      
+00000882,X-Ray Dorsolateral Spine Lateral View                                                               
+00000883,X-Ray Dorsolateral Spine AP view                                                                    
+00000884,X-Ray Cervical Spine Lateral view                                                                   
+00000885,X-Ray Cervical Spine AP view                                                                        
+00000886,X-Ray Bilateral knees AP view                                                                       
+00000887,X-Ray Abdomen (Supine)                                                                              
+00000888,X-Ray Abdomen (Erect)                                                                               
+00000889,X-Ray KUB Lateral View                                                                              
+00000890,X-Ray KUB AP view                                                                                   
+00000891,Chest X-Ray AP View                                                                                 
+00000892,Chest X-Ray PA View                                                                                 
+00000893,USG- Placental localization                                                                         
+00000894,USG- Localization of Pregnancy                                                                      
+00000895,USG Eye                                                                                             
+00000896,USG Scrotum                                                                                         
+00000897,USG Ankle                                                                                           
+00000898,USG Knee                                                                                            
+00000899,USG Shoulder                                                                                        
+00000900,USG Local site                                                                                      
+00000901,Biometry                                                                                            
+00000902,Renal doppler                                                                                       
+00000903,Lower limb doppler- Venous                                                                          
+00000904,Lower limb doppler- Arterial                                                                        
+00000905,Upper limb doppler- Venous                                                                          
+00000906,Upper limb doppler- Arterial                                                                        
+00000907,Carotid doppler                                                                                     
+00000908,USG TVS                                                                                             
+00000909,USG Breast (Unilateral)                                                                             
+00000910,USG Chest                                                                                           
+00000911,USG KUB                                                                                             
+00000912,USG Neck                                                                                            
+00000913,USG Pelvis                                                                                          
+00000914,USG Abdomen & Pelvis                                                                                
+00000915,USG Abdomen                                                                                         
+00000916,Early pregnancy scan                                                                                
+00000917,NT Scan- Doppler                                                                                    
+00000918,NT Scan                                                                                             
+00000919,USG Breast (Bilateral)                                                                              
+00000920,MRI BILATERAL WRIST JOINT                                                                           
+00000921,MRI BILATERAL KNEE JOINT                                                                            
+00000922,MRI WHOLE SPINE SCREENING (PLAIN)                                                                   
+00000923,MRI WHOLE SPINE                                                                                     
+00000924,MRI STROKE PROTOCOL                                                                                 
+00000925,MRI SI JOINT                                                                                        
+00000926,MRI SELLA WITH CONTRAST                                                                             
+00000927,MRI BILATERAL SHOULDER JOINT                                                                        
+00000928,MRI UNILATERAL SHOULDER JOINT                                                                       
+00000929,MRI BILATERAL ANKLE                                                                                 
+00000930,MRI UNILATERAL ANKLE                                                                                
+00000931,MRI PELVIS                                                                                          
+00000932,MRI LUMBAR SPINE                                                                                    
+00000933,MRI UNILATERAL WRIST JOINT                                                                          
+00000934,MRI UNILATERAL KNEE JOINT                                                                           
+00000935,MRI HIP JOINT                                                                                       
+00000936,MRI FISTULOGRAM                                                                                     
+00000937,MRI DORSO LUMBAR SPINE / THORACO LUMBAR SPINE                                                       
+00000938,MRI DORSAL SPINE                                                                                    
+00000939,MRI CERVICO DORSAL SPINE                                                                            
+00000940,MRI CERVICAL SPINE                                                                                  
+00000941,MRI BRAIN (PLAIN)                                                                                   
+00000942,MRI ANGIO BRAIN                                                                                     
+00000943,MRI ABDOMEN AND PELVIS                                                                              
+00000944,MRI ABDOMEN                                                                                         
+00000945,MRI -BRAIN+MRA+MRV                                                                                  
+00000946,MRI TRIPHASIC ABDOMEN                                                                               
+00000947,MRCP                                                                                                
+00000948,HRCT CHEST                                                                                          
+00000949,CT WHOLE SPINE SCREENING                                                                            
+00000950,CT WHOLE ABDOMEN WITH CONTRAST                                                                      
+00000951,CT WHOLE ABDOMEN (PLAIN)                                                                            
+00000952,CT UROGRAPHY (3D STUDY)                                                                             
+00000953,CT TRIPHASIC ABDOMEN                                                                                
+00000954,CT TEMPORAL BONE 3D                                                                                 
+00000955,CT RENAL ANGIO                                                                                      
+00000956,CT PULMONARY ANGIO                                                                                  
+00000957,"CT PNS (AXIAL, CORONAL AND SAGITAL)                                                                 "
+00000958,CT LUMBO SACRAL SPINE                                                                               
+00000959,CT LUMBAR SPINE                                                                                     
+00000960,CT LEFT SHOULDER JOINT (3D STUDY)                                                                   
+00000961,CT LEFT ANKLE JOINT (3D STUDY)                                                                      
+00000962,CT KUB (PLAIN)                                                                                      
+00000963,CT DORSO-LUMBAR SPINE                                                                               
+00000964,CT CERVICAL SPINE                                                                                   
+00000965,CT BRAIN PLAIN                                                                                      
+00000966,CT BRAIN ANGIO                                                                                      
+00000967,CT ANGIO RIGHT LOWER LIMB                                                                           
+00000968,CT ANGIO OF AORTA AND CORONARIES                                                                    
+00000969,CT ANGIO NECK AND BRAIN VESSELS                                                                     
+00000970,CT ANGIO LEFT LOWER LIMB                                                                            
+00000971,CT ABDOMEN AND PELVIS PLAIN                                                                         
+00000972,CECT ABDOMEN AND PELVIS (WHOLE ABDOMEN)                                                             
+00000973,X-Ray foot Lateral View                                                                             
+00000974,X-Ray foot AP View                                                                                  
+00000975,X-Ray Right Wrist                                                                                   
+00000976,X-Ray Left Wrist                                                                                    
+00000977,X-Ray Single knee lateral view                                                                      
+00000978,X-Ray Unilateral knee AP view                                                                       
+00000979,X-Ray Ankle (Bilateral) AP view                                                                     
+00000980,Retinoscopy                                                                                         
+00000981,Echo 2D                                                                                             
+00000982,ECG                                                                                                 
+00000983,Both lower limb doppler- Arterial                                                                   
+00000984,Both upper limb doppler- Arterial                                                                   
+00000985,X-Ray Knee Sklyine view (Unilateral)                                                                
+00000986,USG Obstetric with doppler                                                                          
+00000987,USG Guided Joint Injection                                                                          
+PA010819,Test Service                                                                                        
+PA010820,Essential full body check-up                                                                        
+PA010821,Essential full body check-up Free                                                                   
+PA010823,Ferritin                                                                                            
+PA010825,CGM Plan                                                                                            
+PA010829,Lipid Profile Test                                                                                  
+PO030082,X-Ray Foot (Weight Bearing)                                                                         
+RA040117,MR- Venogram                                                                                        
+RA040118,Treadmill Test                                                                                      
+RA040119,Mammography (Both Breast)                                                                           
+RA040120,Mammography (Single Breast)                                                                         
+RA040121,X-RAY ELBOW AP & LAT VIEW                                                                           
+RA040122,X-Ray Ankle (Bilateral) AP and Lateral View                                                         
+RA040123,X-Ray Foot (Bilateral) AP and Lateral View                                                          
+RA040124,X- Ray reprint                                                                                      

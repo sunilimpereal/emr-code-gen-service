@@ -1,0 +1,37 @@
+"code","description"
+01,Intra Muscular
+02,Intra Venous
+03,Subcutaneous
+04,Intra Dermal
+05,Intrathecal
+06,Epidural
+07,Intra Articular
+08,Intra Osseous
+09,Per Oral
+10,Per Rectum
+11,Per Vagina
+12,Sublingual
+13,Nasal
+14,Right Ear
+15,Left Ear
+16,Both Ears
+17,Right Eye
+18,Left Eye
+19,Both Eyes
+20,Transdermal
+21,Nasogastric Tube
+22,Peg Tube
+23,Jejunostomy Tube
+24,Local Application
+25,Tracheostomy Tube
+26,Endotracheal Tube
+27,Inhalation
+28,Nebulization
+29,Nil
+30,In Nose
+31,Gargle Orally
+32,Oral Application
+33,Nasal Spray
+34,Scalp Application
+35,-
+36,Topical
