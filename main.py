@@ -14,6 +14,6 @@ async def predict(request: PredictionRequest):
     try:
         print(request.dict())
         response = process_input(request.dict())
-        return {"status": "success", "result": response}
+        return  response
     except Exception as e:
         raise HTTPException(status_code=500, detail=str(e))
