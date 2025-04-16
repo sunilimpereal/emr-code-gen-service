@@ -26,50 +26,80 @@ def predict_code(input_text, df, index):
         "similarity_score": float(distances[0][0])  # Cast to native Python float
     }
     
-
 def process_input(data: dict):
+    print("data {}",data)
     result = {}
 
-    for section, config in section_config.items():
-        print(f"\n--- Processing: {section} ---")
-        field = config["field"]
-        section_results = []
+    for section, content in data.items():
+        # If the section is configured for prediction
+        if section in section_config:
+            print(f"\n--- Processing: {section} ---")
+            config = section_config[section]
+            field = config["field"]
+            section_results = []
 
-        # Load section-specific CSV and embeddings
-        start = time.time()
-        df = pd.read_csv(config["csv_file"])
-        embeddings = np.load(config["embedding_file"]).astype("float32")
-        faiss.normalize_L2(embeddings)
-        index = faiss.IndexFlatIP(embeddings.shape[1])
-        index.add(embeddings)
-        print(f"Loaded and indexed {section} in {time.time() - start:.2f} seconds")
+            # Load section-specific CSV and embeddings
+            start = time.time()
+            df = pd.read_csv(config["csv_file"])
+            embeddings = np.load(config["embedding_file"]).astype("float32")
+            faiss.normalize_L2(embeddings)
+            index = faiss.IndexFlatIP(embeddings.shape[1])
+            index.add(embeddings)
+            print(f"Loaded and indexed {section} in {time.time() - start:.2f} seconds")
 
-        items = data.get(section, [])
-        for i, item in enumerate(items):
-            input_text = item.get(field, "").strip()
-            updated_item = item.copy()  # start with a copy of the original item
+            # Determine whether section content is a list or a single object
+            if isinstance(content, list):
+                for i, item in enumerate(content):
+                    input_text = item.get(field, "").strip()
+                    updated_item = item.copy()
 
-            if input_text:
-                prediction = predict_code(input_text, df, index)
+                    if input_text:
+                        prediction = predict_code(input_text, df, index)
+                        code_field = "medicine_code" if section.lower() == "medicaladvice" else "code"
 
-                # Add predictions to the item
-                updated_item["code"] = prediction["predicted_code"]
-                updated_item["matched_description"] = prediction["matched_description"]
-                updated_item["similarity_score"] = prediction["similarity_score"]
-                updated_item["input"] = input_text
+                        updated_item[code_field] = prediction["predicted_code"]
+                        updated_item["matched_description"] = prediction["matched_description"]
+                        updated_item["similarity_score"] = prediction["similarity_score"]
+                        updated_item["input"] = input_text
 
-                print(f"\nItem {i+1}: {input_text}")
-                print(f"Predicted Code: {prediction['predicted_code']}")
-                print(f"Matched Description: {prediction['matched_description']}")
-                print(f"Similarity Score: {prediction['similarity_score']:.4f}")
-            else:
-                updated_item["error"] = f"No input found for field '{field}'"
-                updated_item["input"] = ""
+                        print(f"\nItem {i+1}: {input_text}")
+                        print(f"Predicted Code: {prediction['predicted_code']}")
+                        print(f"Matched Description: {prediction['matched_description']}")
+                        print(f"Similarity Score: {prediction['similarity_score']:.4f}")
+                    else:
+                        updated_item["error"] = f"No input found for field '{field}'"
+                        updated_item["input"] = ""
 
-                print(f"\nItem {i+1}: No input found.")
+                        print(f"\nItem {i+1}: No input found.")
 
-            section_results.append(updated_item)
+                    section_results.append(updated_item)
+            elif isinstance(content, dict):
+                input_text = content.get(field, "").strip()
+                updated_item = content.copy()
 
-        result[section] = section_results
+                if input_text:
+                    prediction = predict_code(input_text, df, index)
+                    code_field = "medicine_code" if section.lower() == "medicaladvice" else "code"
+
+                    updated_item[code_field] = prediction["predicted_code"]
+                    updated_item["matched_description"] = prediction["matched_description"]
+                    updated_item["similarity_score"] = prediction["similarity_score"]
+                    updated_item["input"] = input_text
+
+                    print(f"\nSingle Item: {input_text}")
+                    print(f"Predicted Code: {prediction['predicted_code']}")
+                    print(f"Matched Description: {prediction['matched_description']}")
+                    print(f"Similarity Score: {prediction['similarity_score']:.4f}")
+                else:
+                    updated_item["error"] = f"No input found for field '{field}'"
+                    updated_item["input"] = ""
+
+                section_results = updated_item
+
+            result[section] = section_results
+        else:
+            print(section)
+            # Not part of section_config — copy as-is
+            result[section] = content
 
     return result
